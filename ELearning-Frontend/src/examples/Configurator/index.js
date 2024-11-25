@@ -95,7 +95,7 @@ function Configurator() {
         px={3}
       >
         <SoftBox>
-          <SoftTypography variant="h5">Soft UI Configurator</SoftTypography>
+          <SoftTypography variant="h5">E-Learning Configurator</SoftTypography>
           <SoftTypography variant="body2" color="text">
             See our dashboard options.
           </SoftTypography>
@@ -190,15 +190,15 @@ function Configurator() {
             </SoftButton>
           </SoftBox>
         </SoftBox>
-        <SoftBox mt={3} mb={2} lineHeight={1}>
+        {/* <SoftBox mt={3} mb={2} lineHeight={1}>
           <SoftTypography variant="h6">Navbar Fixed</SoftTypography>
 
           <Switch checked={fixedNavbar} onChange={handleFixedNavbar} />
-        </SoftBox>
+        </SoftBox> */}
 
         <Divider />
 
-        <SoftBox mt={3} mb={2}>
+        {/* <SoftBox mt={3} mb={2}>
           <SoftBox mb={2}>
             <SoftButton
               component={Link}
@@ -223,8 +223,8 @@ function Configurator() {
           >
             view documentation
           </SoftButton>
-        </SoftBox>
-        <SoftBox display="flex" justifyContent="center">
+        </SoftBox> */}
+        {/* <SoftBox display="flex" justifyContent="center">
           <a
             className="github-button"
             href="https://github.com/creativetimofficial/soft-ui-dashboard-react"
@@ -235,7 +235,7 @@ function Configurator() {
           >
             Star
           </a>
-        </SoftBox>
+        </SoftBox> */}
         <SoftBox mt={3} textAlign="center">
           <SoftBox mb={0.5}>
             <SoftTypography variant="h6">Thank you for sharing!</SoftTypography>

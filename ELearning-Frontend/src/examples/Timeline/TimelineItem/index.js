@@ -2,14 +2,10 @@
 =========================================================
 * Soft UI Dashboard React - v4.0.1
 =========================================================
-
 * Product Page: https://www.creative-tim.com/product/soft-ui-dashboard-react
 * Copyright 2023 Creative Tim (https://www.creative-tim.com)
-
 Coded by www.creative-tim.com
-
- =========================================================
-
+=========================================================
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 */
 
@@ -30,9 +26,18 @@ import { useTimeline } from "examples/Timeline/context";
 // Custom styles for the TimelineItem
 import { timelineItem, timelineItemIcon } from "examples/Timeline/TimelineItem/styles";
 
-function TimelineItem({ color, icon, title, dateTime, description, badges, lastItem }) {
-  const isDark = useTimeline();
+function TimelineItem({
+  color = "info", // default value for color
+  icon,
+  title,
+  dateTime,
+  description = "", // default value for description
+  badges = [], // default value for badges
+  lastItem = false // default value for lastItem
+}) {
+  const isDark = useTimeline(); // accessing the theme context
 
+  // rendering badges if available
   const renderBadges =
     badges.length > 0
       ? badges.map((badge, key) => {
@@ -89,14 +94,6 @@ function TimelineItem({ color, icon, title, dateTime, description, badges, lastI
     </SoftBox>
   );
 }
-
-// Setting default values for the props of TimelineItem
-TimelineItem.defaultProps = {
-  color: "info",
-  badges: [],
-  lastItem: false,
-  description: "",
-};
 
 // Typechecking props for the TimelineItem
 TimelineItem.propTypes = {

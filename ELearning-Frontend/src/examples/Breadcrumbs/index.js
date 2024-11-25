@@ -1,34 +1,15 @@
-/**
-=========================================================
-* Soft UI Dashboard React - v4.0.1
-=========================================================
+// Import necessary components
+import { Link } from "react-router-dom"; // Link from react-router-dom
+import PropTypes from "prop-types"; // PropTypes for prop validation
+import { Breadcrumbs as MuiBreadcrumbs } from "@mui/material"; // MUI Breadcrumbs
+import Icon from "@mui/material/Icon"; // MUI Icon
 
-* Product Page: https://www.creative-tim.com/product/soft-ui-dashboard-react
-* Copyright 2023 Creative Tim (https://www.creative-tim.com)
+// Import custom components (make sure these paths are correct)
+import SoftBox from "components/SoftBox"; // Assuming this is your custom component
+import SoftTypography from "components/SoftTypography"; // Assuming this is your custom component
 
-Coded by www.creative-tim.com
-
- =========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-*/
-
-// react-router-dom components
-import { Link } from "react-router-dom";
-
-// prop-types is a library for typechecking of props.
-import PropTypes from "prop-types";
-
-// @mui material components
-import { Breadcrumbs as MuiBreadcrumbs } from "@mui/material";
-import Icon from "@mui/material/Icon";
-
-// Soft UI Dashboard React components
-import SoftBox from "components/SoftBox";
-import SoftTypography from "components/SoftTypography";
-
-function Breadcrumbs({ icon, title, route, light }) {
-  const routes = route.slice(0, -1);
+function Breadcrumbs({ icon, title, route, light = false }) {
+  const routes = Array.isArray(route) ? route.slice(0, -1) : []; // Ensure route is an array.
 
   return (
     <SoftBox mr={{ xs: 0, xl: 8 }}>
@@ -88,12 +69,7 @@ function Breadcrumbs({ icon, title, route, light }) {
   );
 }
 
-// Setting default values for the props of Breadcrumbs
-Breadcrumbs.defaultProps = {
-  light: false,
-};
-
-// Typechecking props for the Breadcrumbs
+// Typechecking props for the Breadcrumbs component
 Breadcrumbs.propTypes = {
   icon: PropTypes.node.isRequired,
   title: PropTypes.string.isRequired,

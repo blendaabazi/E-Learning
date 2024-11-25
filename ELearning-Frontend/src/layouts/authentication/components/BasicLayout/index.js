@@ -34,11 +34,6 @@ function BasicLayout({ title, description, image, children }) {
   return (
     <PageLayout>
       <DefaultNavbar
-        action={{
-          type: "external",
-          route: "https://creative-tim.com/product/soft-ui-dashboard-react",
-          label: "free download",
-        }}
         transparent
         light
       />
@@ -70,9 +65,9 @@ function BasicLayout({ title, description, image, children }) {
               </SoftTypography>
             </SoftBox>
             <SoftBox mb={2}>
-              <SoftTypography variant="body2" color="white" fontWeight="regular">
+              {/* <SoftTypography variant="body2" color="white" fontWeight="regular">
                 {description}
-              </SoftTypography>
+              </SoftTypography> */}
             </SoftBox>
           </Grid>
         </Grid>

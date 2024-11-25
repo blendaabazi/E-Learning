@@ -27,7 +27,7 @@ import TimelineItem from "examples/Timeline/TimelineItem";
 function OrdersOverview() {
   return (
     <Card className="h-100">
-      <SoftBox pt={3} px={3}>
+      {/* <SoftBox pt={3} px={3}>
         <SoftTypography variant="h6" fontWeight="medium">
           Orders overview
         </SoftTypography>
@@ -78,7 +78,7 @@ function OrdersOverview() {
           dateTime="18 DEC 4:54 AM"
         />
         <TimelineItem color="dark" icon="paid" title="New order #9583120" dateTime="17 DEC" />
-      </SoftBox>
+      </SoftBox> */}
     </Card>
   );
 }
