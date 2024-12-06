@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\ELearning-Backend\\",
+  "WorkspaceRootPath": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\ELearning-Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D64A715F-A8EB-4DF2-97AA-070C9010B9F4}|ELearning-Backend\\ELearning-Backend.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\elearning-backend\\elearning-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D64A715F-A8EB-4DF2-97AA-070C9010B9F4}|ELearning-Backend\\ELearning-Backend.csproj|c:\\users\\naim\\onedrive\\desktop\\e-learning\\elearning-backend\\elearning-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D64A715F-A8EB-4DF2-97AA-070C9010B9F4}|ELearning-Backend\\ELearning-Backend.csproj|solutionrelative:elearning-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64A715F-A8EB-4DF2-97AA-070C9010B9F4}|ELearning-Backend\\ELearning-Backend.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\elearning-backend\\elearning-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{D64A715F-A8EB-4DF2-97AA-070C9010B9F4}|ELearning-Backend\\ELearning-Backend.csproj|c:\\users\\naim\\onedrive\\desktop\\e-learning\\elearning-backend\\elearning-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D64A715F-A8EB-4DF2-97AA-070C9010B9F4}|ELearning-Backend\\ELearning-Backend.csproj|solutionrelative:elearning-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\ELearning-Backend\\ELearning-Backend\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\ELearning-Backend\\ELearning-Backend\\Program.cs",
               "RelativeDocumentMoniker": "ELearning-Backend\\Program.cs",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\ELearning-Backend\\ELearning-Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\ELearning-Backend\\ELearning-Backend\\Program.cs",
               "RelativeToolTip": "ELearning-Backend\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T13:15:44.558Z",
               "EditorCaption": ""
@@ -37,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\ELearning-Backend\\ELearning-Backend\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\ELearning-Backend\\ELearning-Backend\\appsettings.json",
               "RelativeDocumentMoniker": "ELearning-Backend\\appsettings.json",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\ELearning-Backend\\ELearning-Backend\\appsettings.json",
-              "RelativeToolTip": "ELearning-Backend\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\ELearning-Backend\\ELearning-Backend\\appsettings.json*",
+              "RelativeToolTip": "ELearning-Backend\\appsettings.json*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-11-25T17:04:14.605Z",
               "EditorCaption": ""
