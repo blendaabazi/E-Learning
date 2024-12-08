@@ -7,7 +7,11 @@ namespace E_Learning.Controllers
     public class StudentController : Controller
     {
         // GET: StudentController
-        [Authorize]
+        [Authorize(Roles = "Admin")]
+        public IActionResult GetAll()
+        {
+            return View();
+        }
         public ActionResult Index()
         {
             return View();
