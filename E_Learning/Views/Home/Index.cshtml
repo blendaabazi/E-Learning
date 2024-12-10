@@ -2,7 +2,9 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+@* Importoni Sidebar-in *@
+@await Html.PartialAsync("Sidebar")
+
+<div class="content" style="margin-left: 270px; padding: 20px;">
+   
 </div>
