@@ -19,37 +19,10 @@
 <body>
     @if (User.Identity.IsAuthenticated)
     {
+@* Import Sidebar *@
+@await Html.PartialAsync("Sidebar")
         <div class="wrapper">
-            <!-- Sidebar Code -->
-            <aside id="sidebar">
-                <div class="d-flex">
-                    <button class="toggle-btn" type="button">
-                        <i class="lni lni-grid-alt"></i>
-                    </button>
-                    <div class="sidebar-logo">
-                        <a href="#">E-Learning</a>
-                    </div>
-                </div>
-                <ul class="sidebar-nav">
-                    <li class="sidebar-item">
-                        <a class="sidebar-link" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">
-                            <i class="lni lni-user"></i>
-                            <span>Profile</span>
-                        </a>
-                        <a class="sidebar-link" asp-controller="Dashboard" asp-action="Index" title="Dashboard">
-                            <i class="lni lni-dashboard"></i>
-                            <span>Dashboard</span>
-                        </a>
-                    </li>
-                    <!-- Other sidebar items go here -->
-                </ul>
-                <div class="sidebar-footer">
-                    <a class="sidebar-link" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
-                        <i class="lni lni-exit"></i>
-                        <span>Logout</span>
-                    </a>
-                </div>
-            </aside>
+         
 
             <!-- Main Content Area -->
             <div class="main p-3">

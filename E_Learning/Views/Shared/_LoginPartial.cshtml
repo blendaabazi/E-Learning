@@ -9,7 +9,7 @@
         var loggedInUser = await UserManager.GetUserAsync(User);
         var profilePicture = !string.IsNullOrEmpty(loggedInUser?.ProfilePicture)
         ? $"/uploads/{loggedInUser.ProfilePicture}"
-        : "/images/default-profile.png"; // Foton default nëse përdoruesi nuk ka vendosur një foto
+        : "/images/default-profile-picture.jpg"; // Foton default nëse përdoruesi nuk ka vendosur një foto
 
          <li class="nav-item d-flex align-items-center">
             <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">

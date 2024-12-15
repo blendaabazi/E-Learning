@@ -5,7 +5,10 @@
     height: 500px; /* Rregulluar për të dhënë më shumë hapësirë */
     overflow: hidden;
 }
-
+/* Slider with top margin */
+#carouselExampleIndicators {
+    margin-top: 600px; /* Kjo vendos një margjinë të sipërme prej 500px */
+}
 .carousel-item img {
     width: 100%;
     height: 100%;
@@ -88,7 +91,6 @@
         color: #666;
     }
 
-/* Footer */
 footer {
     background-color: #333;
     color: white;
@@ -125,3 +127,156 @@ footer {
         height: 350px;
     }
 }
+
+
+
+/* Body Styles */
+body {
+    background-image: url('/images/login.jpeg'); /* Path to your background image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #fafafa;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+/* Container for Login Box */
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    text-align:center;
+}
+
+.login-box {
+    width: 350px;
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+/* Form Elements */
+.form-floating {
+    margin-bottom: 15px;
+}
+
+.form-control {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.form-label {
+    font-weight: bold;
+    color: #333;
+}
+
+/* Button Styles */
+button {
+    background-color: #0095f6; /* Instagram's blue color */
+    color: #fff;
+    border: none;
+    padding: 12px;
+    width: 100%;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+    button:hover {
+        background-color: #0078d4; /* Darker blue on hover */
+    }
+
+/* Links Section */
+.login-links p {
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.login-links a {
+    color: #0095f6;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+    .login-links a:hover {
+        color: #0078d4;
+    }
+
+/* Styling for the individual options */
+.login-links p {
+    margin: 10px 0;
+}
+
+#forgot-password,
+#resend-confirmation {
+    display: block;
+    margin: 5px 0;
+    font-size: 14px;
+    color: #0078d4;
+}
+
+    #forgot-password:hover,
+    #resend-confirmation:hover {
+        color: #005fa3;
+    }
+
+#forgot-password,
+#resend-confirmation,
+.login-links a {
+    text-decoration: underline;
+}
+
+/* Register link style */
+.login-links a {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+/* Checkbox Styles */
+/*.form-check {
+    margin-bottom: 20px;
+}
+*/
+.form-check-label {
+    font-size: 14px;
+}
+
+/* Responsive Design */
+@media (max-width: 767px) {
+    .login-box {
+        width: 90%;
+        padding: 20px;
+    }
+}
+
+/* Ensuring form layout is aligned and centered */
+/*.form-check-input {
+    width: auto;
+    margin-right: 10px;
+}*/
+
+.form-check-label {
+    /*display: inline-block;
+    font-size: 14px;
+    color: #333;*/
+    text-align:left;
+}
+
+/*.checkbox {
+    margin-bottom: 20px;
+}*/
