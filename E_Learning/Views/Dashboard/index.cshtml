@@ -19,10 +19,10 @@
 <body>
     @if (User.Identity.IsAuthenticated)
     {
-@* Import Sidebar *@
-@await Html.PartialAsync("Sidebar")
+        @* Import Sidebar *@
+        @await Html.PartialAsync("Sidebar")
         <div class="wrapper">
-         
+
 
             <!-- Main Content Area -->
             <div class="main p-3">

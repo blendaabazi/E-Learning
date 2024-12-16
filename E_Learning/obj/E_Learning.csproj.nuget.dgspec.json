@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\E_Learning.csproj": {}
+    "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\E_Learning.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\E_Learning.csproj": {
+    "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\E_Learning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\E_Learning.csproj",
+        "projectUniqueName": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\E_Learning.csproj",
         "projectName": "E_Learning",
-        "projectPath": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\E_Learning.csproj",
-        "packagesPath": "C:\\Users\\Naim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\obj\\",
+        "projectPath": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\E_Learning.csproj",
+        "packagesPath": "C:\\Users\\altin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Naim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\altin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,8 +42,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net7.0": {
@@ -74,6 +79,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[7.0.12, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[7.2.0, )"
             }
           },
           "imports": [
@@ -95,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

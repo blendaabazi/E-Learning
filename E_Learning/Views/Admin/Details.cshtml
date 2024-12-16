@@ -1,0 +1,20 @@
+﻿@model E_Learning.Data.ApplicationUser
+
+<h2>User Details</h2>
+
+<div>
+    <h4>@Model.Name</h4>
+    <h4>@Model.UserName</h4>
+    <p><strong>Email:</strong> @Model.Email</p>
+    <p><strong>Phone Number:</strong> @Model.PhoneNumber</p>
+
+    <p><strong>Role:</strong> @ViewBag.UserRoles[@Model.Id]</p>
+    <p><strong>Email Confirmed:</strong> @(Model.EmailConfirmed ? "Yes" : "No")</p>
+    <p><strong>Phone Number Confirmed:</strong> @(Model.PhoneNumberConfirmed ? "Yes" : "No")</p>
+    
+</div>
+
+<div>
+    <a href="@Url.Action("Edit", "Admin", new { id = Model.Id })" class="btn btn-warning">Edit</a>
+    <a href="@Url.Action("Index", "Admin")" class="btn btn-secondary">Back to List</a>
+</div>

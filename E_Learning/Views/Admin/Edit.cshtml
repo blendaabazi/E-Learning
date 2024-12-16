@@ -1,0 +1,70 @@
+﻿@model E_Learning.Data.ApplicationUser
+
+<h2>Edit User</h2>
+
+<form method="post" asp-action="Edit">
+    <div class="form-group mb-3">
+        <label for="Name" class="form-label">Name</label>
+        <input type="text" id="Name" name="Name" class="form-control" value="@Model.Name" required />
+    </div>
+
+    <div class="form-group mb-3">
+        <label for="Email" class="form-label">Email</label>
+        <input type="email" id="Email" name="Email" class="form-control" value="@Model.Email" required />
+    </div>
+
+    <div class="form-group mb-3">
+        <label for="UserName" class="form-label">Username</label>
+        <input type="text" id="UserName" name="UserName" class="form-control" value="@Model.UserName" required />
+    </div>
+
+    <div class="form-group mb-3">
+        <label for="PhoneNumber" class="form-label">Phone Number</label>
+        <input type="text" id="PhoneNumber" name="PhoneNumber" class="form-control" value="@Model.PhoneNumber" />
+    </div>
+
+    <button type="submit" class="btn btn-success">Save Changes</button>
+    <a href="@Url.Action("Index", "Admin")" class="btn btn-secondary">Cancel</a>
+</form>
+
+<style>
+    .form-group {
+        margin-bottom: 1rem;
+    }
+
+    .form-control {
+        border-radius: 0.375rem;
+        padding: 0.75rem;
+        font-size: 1rem;
+    }
+
+    .form-label {
+        font-size: 1.1rem;
+        font-weight: 600;
+    }
+
+    .btn {
+        margin-top: 1rem;
+        padding: 0.75rem 1.5rem;
+    }
+
+    .btn-success {
+        background-color: #28a745;
+        border-color: #28a745;
+    }
+
+        .btn-success:hover {
+            background-color: #218838;
+            border-color: #1e7e34;
+        }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        border-color: #6c757d;
+    }
+
+        .btn-secondary:hover {
+            background-color: #5a6268;
+            border-color: #545b62;
+        }
+</style>

@@ -1,55 +1,65 @@
 using E_Learning.Data;
 using E_Learning.Services;
-using E_Learning.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using static System.Formats.Asn1.AsnWriter;
+using Swashbuckle.AspNetCore.SwaggerGen;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Konfigurimi i Swagger
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+// Shtoni shërbimin për lidhjen me databazën
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
 
-//builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<ApplicationDbContext>();
-builder.Services.AddDatabaseDeveloperPageExceptionFilter();
-
+// Shtoni mbështetje për identifikimin dhe autorizimin
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
     .AddEntityFrameworkStores<ApplicationDbContext>()
-            .AddDefaultUI()
-            .AddDefaultTokenProviders();
+    .AddDefaultUI()
+    .AddDefaultTokenProviders();
+
+// Shtoni shërbimin për trajtimin e skedarëve
 builder.Services.AddScoped<IFileService, FileService>();
+
+// Shtoni mbështetje për kontrollorët dhe pamjet
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseMigrationsEndPoint();
-}
-else
-{
-    app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-    app.UseHsts();
-}
-
+// Konfigurimi i HTTPS
 app.UseHttpsRedirection();
+
+// Aktivizo shërbimin për skedarët statikë
 app.UseStaticFiles();
 
+// Konfigurimi i rrugëve
 app.UseRouting();
 
+// Aktivizo autorizimin
 app.UseAuthorization();
 
+// Aktivizo Swagger
+app.UseSwagger();
+app.UseSwaggerUI(c =>
+{
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "E-Learning API v1");
+});
+
+// Konfigurimi i rrugës për kontrollet
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 app.MapRazorPages();
 
+
+
+// Seed për rolet dhe administratoret
 using (var scope = app.Services.CreateScope())
 {
     await DbSeeder.SeedRolesAndAdminAsync(scope.ServiceProvider);
 }
+
 app.Run();

@@ -3,7 +3,8 @@
     public enum Roles
     {
         Admin,
-        User
+        User,
+        Professor
     }
     public class MyConstants
     {
