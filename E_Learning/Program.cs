@@ -27,6 +27,16 @@ builder.Services.AddScoped<IFileService, FileService>();
 // Shtoni mbështetje për kontrollorët dhe pamjet
 builder.Services.AddControllersWithViews();
 
+// Mundëso CORS për frontend-in që përdor portën tjetër
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll",
+        policy => policy.WithOrigins("http://localhost:3000")  // Frontend në portin 3000
+                        .AllowAnyHeader()
+                        .AllowAnyMethod());
+});
+
+
 var app = builder.Build();
 
 // Konfigurimi i HTTPS
@@ -47,14 +57,16 @@ app.UseSwaggerUI(c =>
 {
     c.SwaggerEndpoint("/swagger/v1/swagger.json", "E-Learning API v1");
 });
+app.UseCors("AllowFrontend");
 
-// Konfigurimi i rrugës për kontrollet
+// Aktivizo CORS
+app.UseCors("AllowAll");  // Aktivizo politikat CORS që mundësojnë kërkesat nga frontend
+
+// Konfigurimi i rrugës për kontrollorët
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 app.MapRazorPages();
-
-
 
 // Seed për rolet dhe administratoret
 using (var scope = app.Services.CreateScope())

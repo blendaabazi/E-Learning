@@ -8,6 +8,22 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\client-app\build\favicon.ico" />
+    <Content Remove="wwwroot\client-app\build\index.html" />
+    <Content Remove="wwwroot\client-app\build\logo192.png" />
+    <Content Remove="wwwroot\client-app\build\logo512.png" />
+    <Content Remove="wwwroot\client-app\build\robots.txt" />
+    <Content Remove="wwwroot\client-app\build\static\css\main.f855e6bc.css" />
+    <Content Remove="wwwroot\client-app\build\static\css\main.f855e6bc.css.map" />
+    <Content Remove="wwwroot\client-app\build\static\js\488.68c4e4c3.chunk.js" />
+    <Content Remove="wwwroot\client-app\build\static\js\488.68c4e4c3.chunk.js.map" />
+    <Content Remove="wwwroot\client-app\build\static\js\main.ebc622e1.js" />
+    <Content Remove="wwwroot\client-app\build\static\js\main.ebc622e1.js.LICENSE.txt" />
+    <Content Remove="wwwroot\client-app\build\static\js\main.ebc622e1.js.map" />
+    <Content Remove="wwwroot\client-app\build\static\media\logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="7.0.16" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.20" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="7.0.20" />
@@ -19,6 +35,31 @@
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="7.0.12" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="7.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\client-app\build\favicon.ico" />
+    <None Include="wwwroot\client-app\build\index.html" />
+    <None Include="wwwroot\client-app\build\logo192.png" />
+    <None Include="wwwroot\client-app\build\logo512.png" />
+    <None Include="wwwroot\client-app\build\robots.txt" />
+    <None Include="wwwroot\client-app\build\static\css\main.f855e6bc.css" />
+    <None Include="wwwroot\client-app\build\static\css\main.f855e6bc.css.map" />
+    <None Include="wwwroot\client-app\build\static\js\488.68c4e4c3.chunk.js" />
+    <None Include="wwwroot\client-app\build\static\js\488.68c4e4c3.chunk.js.map" />
+    <None Include="wwwroot\client-app\build\static\js\main.ebc622e1.js" />
+    <None Include="wwwroot\client-app\build\static\js\main.ebc622e1.js.LICENSE.txt" />
+    <None Include="wwwroot\client-app\build\static\js\main.ebc622e1.js.map" />
+    <None Include="wwwroot\client-app\build\static\media\logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="wwwroot\client-app\build\asset-manifest.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\client-app\build\manifest.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
 </Project>

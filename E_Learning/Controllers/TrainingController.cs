@@ -1,12 +1,11 @@
-﻿using E_Learning.Data;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using E_Learning.Data;
 using Microsoft.EntityFrameworkCore;
+using System.Threading.Tasks;
 
 namespace E_Learning.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class TrainingController : ControllerBase
+    public class TrainingController : Controller
     {
         private readonly ApplicationDbContext _context;
 
@@ -15,66 +14,22 @@ namespace E_Learning.Controllers
             _context = context;
         }
 
-        // GET: api/Training
+        public IActionResult Index()
+        {
+            // Merrni të dhënat nga databaza
+            var trainings = _context.Trainings.ToList();
+
+            // Kthejeni të dhënat në View
+            return View(trainings);  // Kjo kalon listën e trajnimeve në View
+        }
+
+
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Training>>> GetTrainings()
+        [Route("api/training")]
+        public async Task<IActionResult> GetAll()
         {
-            return await _context.Trainings.ToListAsync();
-        }
-
-        // GET: api/Training/5
-        [HttpGet("{id}")]
-        public async Task<ActionResult<Training>> GetTraining(int id)
-        {
-            var training = await _context.Trainings.FindAsync(id);
-
-            if (training == null)
-            {
-                return NotFound();
-            }
-
-            return training;
-        }
-
-        // POST: api/Training
-        [HttpPost]
-        public async Task<ActionResult<Training>> PostTraining(Training training)
-        {
-            _context.Trainings.Add(training);
-            await _context.SaveChangesAsync();
-
-            return CreatedAtAction("GetTraining", new { id = training.Id }, training);
-        }
-
-        // PUT: api/Training/5
-        [HttpPut("{id}")]
-        public async Task<IActionResult> PutTraining(int id, Training training)
-        {
-            if (id != training.Id)
-            {
-                return BadRequest();
-            }
-
-            _context.Entry(training).State = EntityState.Modified;
-            await _context.SaveChangesAsync();
-
-            return NoContent();
-        }
-
-        // DELETE: api/Training/5
-        [HttpDelete("{id}")]
-        public async Task<IActionResult> DeleteTraining(int id)
-        {
-            var training = await _context.Trainings.FindAsync(id);
-            if (training == null)
-            {
-                return NotFound();
-            }
-
-            _context.Trainings.Remove(training);
-            await _context.SaveChangesAsync();
-
-            return NoContent();
+            var trainings = await _context.Trainings.ToListAsync();
+            return Ok(trainings);  // Kthe të dhënat në format JSON
         }
     }
 }

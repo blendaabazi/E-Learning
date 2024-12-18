@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Training List";
+    var trainingsJson = System.Text.Json.JsonSerializer.Serialize(Model);
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<!-- Krijo Div për React -->
+<div id="react-container"></div>
+
+
+<div id="training-list"></div>
+
+@section Scripts {
+    <script>
+        fetch('https://localhost:7246/api/training')
+            .then(response => response.json())
+            .then(data => {
+                console.log("Training data from API:", data); // Shfaq të dhënat në console
+                const trainingListDiv = document.getElementById('training-list');
+                const listHtml = data.map(training => `<li>${training.name}</li>`).join('');
+                trainingListDiv.innerHTML = `<ul>${listHtml}</ul>`;
+            })
+            .catch(error => {
+                console.error('Error fetching training data', error);
+            });
+    </script>
+}
