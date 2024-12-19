@@ -11,6 +11,7 @@ namespace E_Learning.Data
         {
         }
         public DbSet<Training> Trainings { get; set; }
+        public DbSet<User> User { get; set; }
 
     }
 }

@@ -6,141 +6,198 @@ using E_Learning.Data;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore;
 
 namespace E_Learning.Controllers
 {
-    [Authorize(Roles = "Admin")]
     public class AdminController : Controller
     {
         private readonly UserManager<ApplicationUser> _userManager;
+        private readonly RoleManager<IdentityRole> _roleManager;
 
-        public AdminController(UserManager<ApplicationUser> userManager)
+        public AdminController(UserManager<ApplicationUser> userManager, RoleManager<IdentityRole> roleManager)
         {
             _userManager = userManager;
+            _roleManager = roleManager;
+        }
+        public IActionResult Index()
+        {
+            // Merrni të dhënat nga databaza
+            var user = _userManager.Users.ToList();
+
+            // Kthejeni të dhënat në View
+            return View(user);  // Kjo kalon listën e trajnimeve në View
+        }
+        // GET: API - Get user by ID
+        [HttpGet]
+        [Route("api/user/{id}")]
+        public async Task<IActionResult> GetUserById(string id)
+        {
+            var user = await _userManager.Users
+                                         .Where(u => u.Id == id)
+                                         .FirstOrDefaultAsync();
+
+            if (user == null)
+            {
+                return NotFound("User not found.");
+            }
+
+            var roles = await _userManager.GetRolesAsync(user);
+            var userData = new
+            {
+                user.Id,
+                user.Name,
+                user.UserName,
+                user.Email,
+                user.PhoneNumber,
+                Role = roles.FirstOrDefault() ?? "No Role"
+            };
+
+            return Ok(userData);
         }
 
-        // GET: Admin/Index - Display all users
-        public async Task<IActionResult> Index()
+
+        // GET: API - Display all users with roles
+        [HttpGet]
+        [Route("api/user")]
+        public async Task<IActionResult> GetAll()
         {
-            var users = _userManager.Users.ToList();
-            var userRoles = new Dictionary<string, string>();
+            var users = await _userManager.Users.ToListAsync();
+            var userList = new List<object>();
 
             foreach (var user in users)
             {
                 var roles = await _userManager.GetRolesAsync(user);
-                userRoles[user.Id] = roles.FirstOrDefault() ?? "No Role";
+                userList.Add(new
+                {
+                    user.Id,
+                    user.Name,
+                    user.UserName,
+                    user.Email,
+                    user.PhoneNumber,
+                    Role = roles.FirstOrDefault() ?? "No Role"
+                });
             }
 
-            ViewBag.UserRoles = userRoles;
-            return View(users);
+            return Ok(userList);
         }
 
-        // POST: Assign Professor Role
+        // POST: API - Create a new user
         [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> ChangeRole(string userId, string role)
+        [Route("api/admin/create-user")]
+        public async Task<IActionResult> CreateUser([FromBody] CreateUserModel model)
         {
-            var user = await _userManager.FindByIdAsync(userId);
+            if (string.IsNullOrEmpty(model.Email) || string.IsNullOrEmpty(model.Password))
+            {
+                return BadRequest("Email and Password are required.");
+            }
+
+            // Check if the email is already registered
+            var existingUser = await _userManager.FindByEmailAsync(model.Email);
+            if (existingUser != null)
+            {
+                return BadRequest("A user with this email already exists.");
+            }
+
+            var user = new ApplicationUser
+            {
+                Name = model.Name,
+                Email = model.Email,
+                UserName = model.Email,
+                PhoneNumber = model.PhoneNumber,
+                ProfilePicture = model.ProfilePicture
+            };
+
+            var result = await _userManager.CreateAsync(user, model.Password);
+            if (!result.Succeeded)
+            {
+                return BadRequest(result.Errors);
+            }
+
+            // Assign role if specified
+            if (!string.IsNullOrEmpty(model.Role))
+            {
+                if (await _roleManager.RoleExistsAsync(model.Role))
+                {
+                    await _userManager.AddToRoleAsync(user, model.Role);
+                }
+                else
+                {
+                    return BadRequest("Role does not exist.");
+                }
+            }
+
+            return Ok("User created successfully.");
+        }
+
+        // PUT: API - Update user information
+        [HttpPut]
+        [Route("api/admin/update-user")]
+        public async Task<IActionResult> UpdateUser([FromBody] UpdateUserModel model)
+        {
+            var user = await _userManager.FindByIdAsync(model.Id);
+            if (user == null)
+            {
+                return NotFound("User not found.");
+            }
+
+            user.Name = model.Name ?? user.Name;
+            user.Email = model.Email ?? user.Email;
+            user.PhoneNumber = model.PhoneNumber ?? user.PhoneNumber;
+            user.ProfilePicture = model.ProfilePicture ?? user.ProfilePicture;
+
+            var result = await _userManager.UpdateAsync(user);
+            if (!result.Succeeded)
+            {
+                return BadRequest(result.Errors);
+            }
+
+            // Update role if specified
+            if (!string.IsNullOrEmpty(model.Role))
+            {
+                if (await _roleManager.RoleExistsAsync(model.Role))
+                {
+                    var currentRoles = await _userManager.GetRolesAsync(user);
+                    await _userManager.RemoveFromRolesAsync(user, currentRoles);
+                    await _userManager.AddToRoleAsync(user, model.Role);
+                }
+                else
+                {
+                    return BadRequest("Role does not exist.");
+                }
+            }
+
+            return Ok("User updated successfully.");
+        }
+
+        // POST: Assign Role
+        [HttpPost]
+        [Route("api/admin/assign-role")]
+        public async Task<IActionResult> AssignRole([FromBody] RoleAssignmentModel model)
+        {
+            var user = await _userManager.FindByIdAsync(model.UserId);
             if (user == null)
             {
                 return NotFound("User not found");
             }
 
             var validRoles = new[] { Roles.User.ToString(), Roles.Professor.ToString(), Roles.Admin.ToString() };
-            if (!validRoles.Contains(role))
+            if (!validRoles.Contains(model.Role))
             {
-                ModelState.AddModelError("", "Invalid role selected");
-                return RedirectToAction(nameof(Index));
+                return BadRequest("Invalid role selected");
             }
 
             var currentRoles = await _userManager.GetRolesAsync(user);
             await _userManager.RemoveFromRolesAsync(user, currentRoles);
-            await _userManager.AddToRoleAsync(user, role);
+            await _userManager.AddToRoleAsync(user, model.Role);
 
-            return RedirectToAction(nameof(Index));
+            return Ok("Role assigned successfully");
         }
 
-        // GET: Admin/Details/{id} - View user details
-        public async Task<IActionResult> Details(string id)
-        {
-            var user = await _userManager.FindByIdAsync(id);
-            if (user == null)
-            {
-                return NotFound("User not found");
-            }
-
-            var userRoles = new Dictionary<string, string>();
-            var roles = await _userManager.GetRolesAsync(user);
-            userRoles[user.Id] = roles.FirstOrDefault() ?? "No Role";  // Ensure the user has a role
-
-            ViewBag.UserRoles = userRoles;
-
-            return View(user);
-        }
-
-        // GET: Admin/Edit/{id} - Edit user
-        public async Task<IActionResult> Edit(string id)
-        {
-            var user = await _userManager.FindByIdAsync(id);
-            if (user == null)
-            {
-                return NotFound("User not found");
-            }
-
-            return View(user);
-        }
-
-        // POST: Admin/Edit/{id} - Save edited user
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(string id, ApplicationUser updatedUser)
-        {
-            if (id != updatedUser.Id)
-            {
-                return BadRequest("User ID mismatch");
-            }
-
-            var user = await _userManager.FindByIdAsync(id);
-            if (user == null)
-            {
-                return NotFound("User not found");
-            }
-
-            // Update user properties
-            user.Name = updatedUser.Name;
-            user.Email = updatedUser.Email;
-            user.PhoneNumber = updatedUser.PhoneNumber;
-            user.UserName = updatedUser.UserName;
-
-            var result = await _userManager.UpdateAsync(user);
-            if (result.Succeeded)
-            {
-                return RedirectToAction(nameof(Index));
-            }
-
-            foreach (var error in result.Errors)
-            {
-                ModelState.AddModelError("", error.Description);
-            }
-
-            return View(updatedUser);
-        }
-
-        public async Task<IActionResult> Delete(string id)
-        {
-            var user = await _userManager.FindByIdAsync(id);
-            if (user == null)
-            {
-                return NotFound("User not found");
-            }
-
-            return View(user); // Show confirmation view
-        }
-
-        // POST: Admin/Delete/{id} - Confirm deletion and delete the user
-        [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(string id)
+        // DELETE: API - Delete user
+        [HttpDelete]
+        [Route("api/admin/users/{id}")]
+        public async Task<IActionResult> DeleteUser(string id)
         {
             var user = await _userManager.FindByIdAsync(id);
             if (user == null)
@@ -151,15 +208,39 @@ namespace E_Learning.Controllers
             var result = await _userManager.DeleteAsync(user);
             if (result.Succeeded)
             {
-                return RedirectToAction(nameof(Index)); // Redirect to user list
+                return Ok("User deleted successfully");
             }
 
-            foreach (var error in result.Errors)
-            {
-                ModelState.AddModelError("", error.Description); // Show any errors that occurred
-            }
-
-            return View(user); // If errors occur, show the confirmation view again
+            return BadRequest(result.Errors);
         }
+    }
+
+    // Model for creating a user
+    public class CreateUserModel
+    {
+        public string Name { get; set; }
+        public string Email { get; set; }
+        public string PhoneNumber { get; set; }
+        public string ProfilePicture { get; set; }
+        public string Password { get; set; }
+        public string Role { get; set; }
+    }
+
+    // Model for updating a user
+    public class UpdateUserModel
+    {
+        public string Id { get; set; }
+        public string Name { get; set; }
+        public string Email { get; set; }
+        public string PhoneNumber { get; set; }
+        public string ProfilePicture { get; set; }
+        public string Role { get; set; }
+    }
+
+    // Model for role assignment
+    public class RoleAssignmentModel
+    {
+        public string UserId { get; set; }
+        public string Role { get; set; }
     }
 }

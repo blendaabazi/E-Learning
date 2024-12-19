@@ -1,3 +1,5 @@
+wwwroot\client-app\build\asset-manifest.json
+wwwroot\client-app\build\manifest.json
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\brand-logos\almarah.png
@@ -77,6 +79,7 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\Uploads\184d1d28-102c-469b-9d68-0fd3b717240b.png
 wwwroot\Uploads\28dd7941-0dcd-4660-a485-6a12327062aa.png
 wwwroot\Uploads\b4889b64-448c-42ae-a5e4-4fddef1f9725.png
 wwwroot\Uploads\c3e9d5dd-963f-4683-93ae-007cafc01d54.png

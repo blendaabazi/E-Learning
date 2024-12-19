@@ -2305,6 +2305,88 @@
       ]
     },
     {
+      "Route": "Uploads/184d1d28-102c-469b-9d68-0fd3b717240b.cy8m161xsj.png",
+      "AssetFile": "Uploads/184d1d28-102c-469b-9d68-0fd3b717240b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1J9GFcTuA58oRyUkpjai4ZahmHpKZ8TaI6oqqJX/yNk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 02:06:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cy8m161xsj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1J9GFcTuA58oRyUkpjai4ZahmHpKZ8TaI6oqqJX/yNk="
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/184d1d28-102c-469b-9d68-0fd3b717240b.png"
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/184d1d28-102c-469b-9d68-0fd3b717240b.png",
+      "AssetFile": "Uploads/184d1d28-102c-469b-9d68-0fd3b717240b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1J9GFcTuA58oRyUkpjai4ZahmHpKZ8TaI6oqqJX/yNk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 02:06:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1J9GFcTuA58oRyUkpjai4ZahmHpKZ8TaI6oqqJX/yNk="
+        }
+      ]
+    },
+    {
       "Route": "Uploads/28dd7941-0dcd-4660-a485-6a12327062aa.6g5ej12spn.png",
       "AssetFile": "Uploads/28dd7941-0dcd-4660-a485-6a12327062aa.png",
       "Selectors": [],
@@ -2711,6 +2793,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-/yR56FH7+Qe0EH4kiXI55fSL9uWG4c+miA5L4afA0Nk="
+        }
+      ]
+    },
+    {
+      "Route": "client-app/build/asset-manifest.json",
+      "AssetFile": "client-app/build/asset-manifest.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "620"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TtJ1vkVJRKhwRLQxTPYQouq/+z8T0nAmSPUgEdr/DHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 10:28:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TtJ1vkVJRKhwRLQxTPYQouq/+z8T0nAmSPUgEdr/DHA="
+        }
+      ]
+    },
+    {
+      "Route": "client-app/build/asset-manifest.qtutlv8gsx.json",
+      "AssetFile": "client-app/build/asset-manifest.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "620"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TtJ1vkVJRKhwRLQxTPYQouq/+z8T0nAmSPUgEdr/DHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 10:28:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qtutlv8gsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TtJ1vkVJRKhwRLQxTPYQouq/+z8T0nAmSPUgEdr/DHA="
+        },
+        {
+          "Name": "label",
+          "Value": "client-app/build/asset-manifest.json"
+        }
+      ]
+    },
+    {
+      "Route": "client-app/build/manifest.json",
+      "AssetFile": "client-app/build/manifest.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M/25nMLNOtjhgVsYtwBes/WASJkNgO58c67SiraaThk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 10:28:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M/25nMLNOtjhgVsYtwBes/WASJkNgO58c67SiraaThk="
+        }
+      ]
+    },
+    {
+      "Route": "client-app/build/manifest.xnb7ssc67i.json",
+      "AssetFile": "client-app/build/manifest.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M/25nMLNOtjhgVsYtwBes/WASJkNgO58c67SiraaThk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 10:28:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xnb7ssc67i"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M/25nMLNOtjhgVsYtwBes/WASJkNgO58c67SiraaThk="
+        },
+        {
+          "Name": "label",
+          "Value": "client-app/build/manifest.json"
         }
       ]
     },

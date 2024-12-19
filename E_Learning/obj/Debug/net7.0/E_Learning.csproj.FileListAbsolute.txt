@@ -888,3 +888,5 @@ C:\Users\Naim\OneDrive\Desktop\E-Learning\E_Learning\bin\Debug\net7.0\Swashbuckl
 C:\Users\Naim\OneDrive\Desktop\E-Learning\E_Learning\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Naim\OneDrive\Desktop\E-Learning\E_Learning\bin\Debug\net7.0\wwwroot\client-app\build\asset-manifest.json
 C:\Users\Naim\OneDrive\Desktop\E-Learning\E_Learning\bin\Debug\net7.0\wwwroot\client-app\build\manifest.json
+C:\Users\altin\OneDrive\Desktop\E-Learning\E_Learning\bin\Debug\net7.0\wwwroot\client-app\build\asset-manifest.json
+C:\Users\altin\OneDrive\Desktop\E-Learning\E_Learning\bin\Debug\net7.0\wwwroot\client-app\build\manifest.json
