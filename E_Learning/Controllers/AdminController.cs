@@ -10,6 +10,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace E_Learning.Controllers
 {
+    [Authorize(Roles = "Admin")]
     public class AdminController : Controller
     {
         private readonly UserManager<ApplicationUser> _userManager;
@@ -20,6 +21,7 @@ namespace E_Learning.Controllers
             _userManager = userManager;
             _roleManager = roleManager;
         }
+
         public IActionResult Index()
         {
             // Merrni të dhënat nga databaza

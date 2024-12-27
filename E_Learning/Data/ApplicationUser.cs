@@ -8,5 +8,6 @@ namespace E_Learning.Data
     {
         public string? Name { get; set; }
         public string? ProfilePicture { get; set; }
+
     }
 }

@@ -74,3 +74,5 @@ C:\Users\altin\OneDrive\Desktop\E-Learning\E-LearningFront\obj\Debug\net7.0\refi
 C:\Users\altin\OneDrive\Desktop\E-Learning\E-LearningFront\obj\Debug\net7.0\E-LearningFront.pdb
 C:\Users\altin\OneDrive\Desktop\E-Learning\E-LearningFront\obj\Debug\net7.0\E-LearningFront.genruntimeconfig.cache
 C:\Users\altin\OneDrive\Desktop\E-Learning\E-LearningFront\obj\Debug\net7.0\ref\E-LearningFront.dll
+C:\Users\Naim\OneDrive\Desktop\E-Learning\E-LearningFront\bin\Debug\net7.0\client-app\build\asset-manifest.json
+C:\Users\Naim\OneDrive\Desktop\E-Learning\E-LearningFront\bin\Debug\net7.0\client-app\build\manifest.json

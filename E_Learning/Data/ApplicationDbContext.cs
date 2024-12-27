@@ -10,8 +10,14 @@ namespace E_Learning.Data
             : base(options)
         {
         }
+
         public DbSet<Training> Trainings { get; set; }
-        public DbSet<User> User { get; set; }
+        public DbSet<Lecture> Lectures { get; set; }
+
+        //public DbSet<User> Users { get; set; }
+
+
 
     }
+
 }
