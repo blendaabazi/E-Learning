@@ -88,46 +88,43 @@ namespace E_Learning.Controllers
             }
         }
 
-        // API PUT: Update an existing training record (Admin role required)
+        // API PUT: Update a training record (Admin role required)
         [Authorize(Roles = "Admin")]
-        [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateTraining(int id, [FromForm] TrainingUpdateModel model)
+        [HttpPut]
+        [Route("api/training/{id}")]
+        public async Task<IActionResult> UpdateTraining(int id, [FromBody] TrainingDto trainingDto)
         {
-            if (id != model.Id)
+            if (!ModelState.IsValid)
             {
-                return BadRequest();
+                return BadRequest(ModelState);
             }
 
             var training = await _context.Trainings.FindAsync(id);
             if (training == null)
             {
-                return NotFound();
+                return NotFound(new { message = "Training not found." });
             }
 
-            // Update properties
-            training.Name = model.Name;
-
-            if (model.File != null)
+            var user = await _context.Users.FindAsync(trainingDto.UserId);
+            if (user == null)
             {
-                var fileName = Path.GetFileName(model.File.FileName);
-                var fileDirectory = Path.Combine(Directory.GetCurrentDirectory(), "Uploads");
-                if (!Directory.Exists(fileDirectory))
-                {
-                    Directory.CreateDirectory(fileDirectory);
-                }
-
-                //var fullPath = Path.Combine(fileDirectory, fileName);
-                //using (var stream = new FileStream(fullPath, FileMode.Create))
-                //{
-                //    await model.File.CopyToAsync(stream);
-                //}
-                //training.FilePath = Path.Combine("Uploads", fileName);  // Store relative path to file
+                return NotFound(new { message = "User not found." });
             }
 
-            _context.Entry(training).State = EntityState.Modified;
-            await _context.SaveChangesAsync();
+            training.Name = trainingDto.Name;
+            training.UserId = trainingDto.UserId;
+            training.User = user;
 
-            return NoContent();  // Indicates the update was successful, but no content to return
+            try
+            {
+                _context.Trainings.Update(training);
+                await _context.SaveChangesAsync();
+                return Ok(training);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { message = $"Error updating training: {ex.Message}" });
+            }
         }
 
 
@@ -275,11 +272,6 @@ namespace E_Learning.Controllers
         public string UserId { get; set; }
     }
 
-    public class TrainingUpdateModel
-    {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public IFormFile? File { get; set; } // Nullable file for file uploads
-    }
+ 
 
 }

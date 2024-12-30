@@ -29,7 +29,7 @@
                 </div>
                 @if (User.IsInRole("Professor"))
                 {
-                    <form method="post" action="@Url.Action("DeleteLecture", "Lecture", new { id = file.Id })" onsubmit="return confirm('Are you sure you want to delete this lecture?');" class="ms-3">
+                    <form method="post" action="@Url.Action("DeleteLecture", "Lecture", new { id = file.Id })" onsubmit="return confirm('A jeni të sigurt që dëshironi të fshini këtë ligjëratë?');" class="ms-3">
                         <button type="submit" class="btn btn-danger btn-sm">Delete</button>
                     </form>
                 }
@@ -56,9 +56,5 @@ else
     </form>
 }
 
-<script>
-    // Log the result of User.IsInRole("Professor") to the browser console
-    var isProfessor = @User.IsInRole("Professor").ToString().ToLower();
-    console.log("Is user a Professor? " + isProfessor);
-</script>
 <a href="https://localhost:7246/training/index" class="btn btn-secondary mt-3">Back to List</a>
+

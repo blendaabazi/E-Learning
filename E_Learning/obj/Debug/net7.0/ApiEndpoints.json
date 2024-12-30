@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "E_Learning.Controllers.TrainingController",
+    "Method": "GetTraining",
+    "RelativePath": "{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "E_Learning.Controllers.AdminController",
     "Method": "AssignRole",
     "RelativePath": "api/admin/assign-role",
@@ -64,6 +80,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "E_Learning.Controllers.LectureController",
+    "Method": "DeleteLecture",
+    "RelativePath": "api/Lecture",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "E_Learning.Controllers.TrainingController",
     "Method": "GetAll",
     "RelativePath": "api/training",
@@ -71,6 +103,80 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_Learning.Controllers.TrainingController",
+    "Method": "CreateTraining",
+    "RelativePath": "api/training",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trainingDto",
+        "Type": "E_Learning.Controllers.TrainingDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_Learning.Controllers.TrainingController",
+    "Method": "UpdateTraining",
+    "RelativePath": "api/training/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "trainingDto",
+        "Type": "E_Learning.Controllers.TrainingDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_Learning.Controllers.TrainingController",
+    "Method": "Delete",
+    "RelativePath": "api/training/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_Learning.Controllers.TrainingController",
+    "Method": "UploadFile",
+    "RelativePath": "api/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
     "ReturnTypes": []
   },
   {
@@ -97,6 +203,26 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_Learning.Controllers.TrainingController",
+    "Method": "GetUsers",
+    "RelativePath": "api/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_Learning.Controllers.TrainingController",
+    "Method": "GetTrainings",
+    "RelativePath": "sss",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   }
 ]

@@ -3,66 +3,66 @@
   "WorkspaceRootPath": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\views\\training\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:views\\training\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\views\\shared\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:views\\shared\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\controllers\\lecturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:controllers\\lecturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\views\\training\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:views\\training\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A174B4E-0DC8-4FBF-B4D1-DE3F057F1670}|..\\E-LearningFront\\E-LearningFront.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e-learningfront\\client-app\\src\\training.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\models\\lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:models\\lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\constants\\myconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:constants\\myconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A174B4E-0DC8-4FBF-B4D1-DE3F057F1670}|..\\E-LearningFront\\E-LearningFront.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e-learningfront\\client-app\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\models\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:models\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\views\\admin\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:views\\admin\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Data\\Migrations\\20241218154746_User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20241218154746_User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\views\\training\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:views\\training\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Data\\Migrations\\20241221003643_Database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Data\\Migrations\\20241220234634_Lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -77,28 +77,8 @@
       "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:views\\student\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\client-app\\src\\Training.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A174B4E-0DC8-4FBF-B4D1-DE3F057F1670}|..\\E-LearningFront\\E-LearningFront.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e-learningfront\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A174B4E-0DC8-4FBF-B4D1-DE3F057F1670}|..\\E-LearningFront\\E-LearningFront.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e-learningfront\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A174B4E-0DC8-4FBF-B4D1-DE3F057F1670}|..\\E-LearningFront\\E-LearningFront.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e-learningfront\\client-app\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\wwwroot\\client-app\\build\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:wwwroot\\client-app\\build\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -117,36 +97,12 @@
       "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\e_learning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:e_learning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\views\\admin\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:views\\admin\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\views\\inventory\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:views\\inventory\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -169,40 +125,12 @@
       "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\areas\\identity\\pages\\account\\manage\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -225,20 +153,8 @@
       "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\areas\\identity\\pages\\account\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:areas\\identity\\pages\\account\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\areas\\identity\\pages\\account\\manage\\externallogins.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\externallogins.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\areas\\identity\\pages\\account\\manage\\externallogins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\externallogins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -257,10 +173,33 @@
       "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\client-app\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\data\\migrations\\20241218154746_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:data\\migrations\\20241218154746_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e_learning\\data\\migrations\\20241220235139_lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FB02EC-8AA2-4F19-A029-DDF89584A329}|E_Learning.csproj|solutionrelative:data\\migrations\\20241220235139_lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A174B4E-0DC8-4FBF-B4D1-DE3F057F1670}|..\\E-LearningFront\\E-LearningFront.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e-learningfront\\client-app\\src\\training.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A174B4E-0DC8-4FBF-B4D1-DE3F057F1670}|..\\E-LearningFront\\E-LearningFront.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e-learningfront\\client-app\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\client-app\\src\\Training.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\client-app\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A174B4E-0DC8-4FBF-B4D1-DE3F057F1670}|..\\E-LearningFront\\E-LearningFront.csproj|c:\\users\\altin\\onedrive\\desktop\\e-learning\\e-learningfront\\client-app\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\client-app\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
@@ -270,9 +209,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\client-app\\build\\static\\js\\main.ebc622e1.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\client-app\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
@@ -288,11 +224,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 26,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -305,98 +241,229 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Training\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Training\\Details.cshtml",
+              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Training\\Details.cshtml",
+              "RelativeToolTip": "Views\\Training\\Details.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T23:56:08.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Lecture.cs",
+              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Models\\Lecture.cs",
+              "RelativeDocumentMoniker": "Models\\Lecture.cs",
+              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Models\\Lecture.cs",
+              "RelativeToolTip": "Models\\Lecture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T23:55:31.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LectureController.cs",
+              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Controllers\\LectureController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LectureController.cs",
+              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Controllers\\LectureController.cs",
+              "RelativeToolTip": "Controllers\\LectureController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAQwGcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:16:30.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "index.cshtml",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Training\\index.cshtml",
               "RelativeDocumentMoniker": "Views\\Training\\index.cshtml",
               "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Training\\index.cshtml",
               "RelativeToolTip": "Views\\Training\\index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-19T19:51:35.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MyConstants.cs",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Constants\\MyConstants.cs",
-              "RelativeDocumentMoniker": "Constants\\MyConstants.cs",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Constants\\MyConstants.cs",
-              "RelativeToolTip": "Constants\\MyConstants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T00:21:22.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
               "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Controllers\\AdminController.cs",
               "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AgIAANcAAAAAAAAAAAAmwOYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAcwMkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T23:52:42.396Z",
+              "WhenOpened": "2024-12-23T01:45:57.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Admin\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Admin\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Admin\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T01:20:58.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T15:37:14.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Admin\\Index.cshtml",
-              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAOsAAAAAAAAAAAAWwP8AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T23:50:45.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "TrainingController.cs",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Controllers\\TrainingController.cs",
               "RelativeDocumentMoniker": "Controllers\\TrainingController.cs",
               "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Controllers\\TrainingController.cs",
               "RelativeToolTip": "Controllers\\TrainingController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAkwAIBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-08T18:54:18.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Training.cs",
+              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Models\\Training.cs",
+              "RelativeDocumentMoniker": "Models\\Training.cs",
+              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Models\\Training.cs",
+              "RelativeToolTip": "Models\\Training.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T19:28:02.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\Program.cs",
+              "ToolTip": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:56:17.225Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Admin\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Admin\\GetAll.cshtml",
+              "RelativeToolTip": "Views\\Admin\\GetAll.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T23:59:47.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\appsettings.json",
+              "ToolTip": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-21T01:15:30.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwEIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:42:13.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:51:34.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Training\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Training\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Training\\Index.cshtml.cs",
+              "RelativeToolTip": "Views\\Training\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T23:23:59.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241220234634_Lecture.cs",
+              "DocumentMoniker": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Data\\Migrations\\20241220234634_Lecture.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Data\\Migrations\\20241220234634_Lecture.cs",
+              "ToolTip": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Data\\Migrations\\20241220234634_Lecture.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Data\\Migrations\\20241220234634_Lecture.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:46:34.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20241220235139_Lecture.cs",
+              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Data\\Migrations\\20241220235139_Lecture.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241220235139_Lecture.cs",
+              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Data\\Migrations\\20241220235139_Lecture.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241220235139_Lecture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:51:40.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241221003643_Database.cs",
+              "DocumentMoniker": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Data\\Migrations\\20241221003643_Database.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Data\\Migrations\\20241221003643_Database.cs",
+              "ToolTip": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Data\\Migrations\\20241221003643_Database.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Data\\Migrations\\20241221003643_Database.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T00:36:43.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAAFUAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T19:05:01.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T19:05:04.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
               "Title": "Training.js",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\client-app\\src\\Training.js",
               "RelativeDocumentMoniker": "..\\E-LearningFront\\client-app\\src\\Training.js",
@@ -404,51 +471,11 @@
               "RelativeToolTip": "..\\E-LearningFront\\client-app\\src\\Training.js",
               "ViewState": "AgIAAAsAAAAAAAAAAAAIwBUAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-19T19:54:10.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T19:54:10.074Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Data\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Data\\ApplicationUser.cs",
-              "RelativeToolTip": "Data\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T20:17:25.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowDEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T23:34:16.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Sidebar.cshtml",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Shared\\Sidebar.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Sidebar.cshtml",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Shared\\Sidebar.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Sidebar.cshtml",
-              "ViewState": "AgIAALAAAAAAAAAAAAAcwLoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T22:52:36.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 48,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\client-app\\.gitignore",
               "RelativeDocumentMoniker": "..\\E-LearningFront\\client-app\\.gitignore",
@@ -456,12 +483,11 @@
               "RelativeToolTip": "..\\E-LearningFront\\client-app\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-19T19:54:08.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T19:54:08.868Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 43,
               "Title": "20241218154746_User.cs",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Data\\Migrations\\20241218154746_User.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20241218154746_User.cs",
@@ -469,12 +495,11 @@
               "RelativeToolTip": "Data\\Migrations\\20241218154746_User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T15:47:46.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T15:47:46.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "FileService.cs",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Services\\FileService.cs",
               "RelativeDocumentMoniker": "Services\\FileService.cs",
@@ -482,34 +507,7 @@
               "RelativeToolTip": "Services\\FileService.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T18:58:19.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T22:39:45.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Controllers\\StudentController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAA9wFkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T21:51:34.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T18:58:19.974Z"
             },
             {
               "$type": "Document",
@@ -521,8 +519,7 @@
               "RelativeToolTip": "Services\\IFileService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T18:58:29.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T18:58:29.695Z"
             },
             {
               "$type": "Document",
@@ -534,8 +531,7 @@
               "RelativeToolTip": "Views\\Student\\GetAll.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T21:22:52.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T21:22:52.202Z"
             },
             {
               "$type": "Document",
@@ -547,12 +543,11 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ViewState": "AgIAAA4AAAAAAAAAAAAmwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T18:49:36.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T18:49:36.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 49,
               "Title": "Training.js",
               "DocumentMoniker": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\client-app\\src\\Training.js",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\client-app\\src\\Training.js",
@@ -563,20 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\Program.cs",
-              "RelativeDocumentMoniker": "..\\E-LearningFront\\Program.cs",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\Program.cs",
-              "RelativeToolTip": "..\\E-LearningFront\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T10:30:07.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 19,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\client-app\\build\\index.html",
               "RelativeDocumentMoniker": "wwwroot\\client-app\\build\\index.html",
@@ -588,7 +570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 22,
               "Title": "GetAll.cshtml",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Training\\GetAll.cshtml",
               "RelativeDocumentMoniker": "Views\\Training\\GetAll.cshtml",
@@ -600,20 +582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-09T21:15:12.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 50,
               "Title": "App.js",
               "DocumentMoniker": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\client-app\\src\\App.js",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\client-app\\src\\App.js",
@@ -625,20 +594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\appsettings.json",
-              "RelativeDocumentMoniker": "..\\E-LearningFront\\appsettings.json",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\appsettings.json",
-              "RelativeToolTip": "..\\E-LearningFront\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-18T10:30:15.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 51,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\client-app\\package.json",
               "RelativeDocumentMoniker": "..\\E-LearningFront\\client-app\\package.json",
@@ -646,24 +602,11 @@
               "RelativeToolTip": "..\\E-LearningFront\\client-app\\package.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-18T10:44:12.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T10:44:12.215Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFUAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T19:05:01.434Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 23,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -675,19 +618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\Program.cs",
-              "ToolTip": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T21:56:17.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 20,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
@@ -699,7 +630,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 21,
               "Title": "Sidebar.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Shared\\Sidebar.cshtml.cs",
               "RelativeDocumentMoniker": "Views\\Shared\\Sidebar.cshtml.cs",
@@ -711,7 +642,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 52,
               "Title": "App.css",
               "DocumentMoniker": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\client-app\\src\\App.css",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\client-app\\src\\App.css",
@@ -723,7 +654,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 53,
               "Title": "488.68c4e4c3.chunk.js.map",
               "DocumentMoniker": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\client-app\\build\\static\\js\\488.68c4e4c3.chunk.js.map",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\client-app\\build\\static\\js\\488.68c4e4c3.chunk.js.map",
@@ -735,7 +666,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 54,
               "Title": "main.ebc622e1.js.map",
               "DocumentMoniker": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\client-app\\build\\static\\js\\main.ebc622e1.js.map",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\client-app\\build\\static\\js\\main.ebc622e1.js.map",
@@ -747,19 +678,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\Properties\\launchSettings.json",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-16T21:22:40.335Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 55,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\client-app\\package.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\client-app\\package.json",
@@ -771,7 +690,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 56,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\client-app\\build\\index.html",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Naim\\OneDrive\\Desktop\\E-Learning\\E-LearningFront\\client-app\\build\\index.html",
@@ -783,44 +702,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "E_Learning.csproj",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\E_Learning.csproj",
-              "RelativeDocumentMoniker": "E_Learning.csproj",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\E_Learning.csproj",
-              "RelativeToolTip": "E_Learning.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-16T02:09:01.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "Models\\Course.cs",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Models\\Course.cs",
-              "RelativeToolTip": "Models\\Course.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T19:46:27.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Admin\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\Details.cshtml",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Admin\\Details.cshtml",
-              "RelativeToolTip": "Views\\Admin\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T01:14:15.524Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 24,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Admin\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\Delete.cshtml",
@@ -832,31 +714,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T22:39:06.567Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "GetAll.cshtml",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Admin\\GetAll.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\GetAll.cshtml",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Admin\\GetAll.cshtml",
-              "RelativeToolTip": "Views\\Admin\\GetAll.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T23:59:47.336Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 28,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
@@ -868,19 +726,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "index.cshtml",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Dashboard\\index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Dashboard\\index.cshtml",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Dashboard\\index.cshtml",
-              "RelativeToolTip": "Views\\Dashboard\\index.cshtml",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAswHIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T22:13:37.236Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 27,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
@@ -892,7 +738,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 25,
               "Title": "GetAll.cshtml",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Inventory\\GetAll.cshtml",
               "RelativeDocumentMoniker": "Views\\Inventory\\GetAll.cshtml",
@@ -904,7 +750,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 30,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
@@ -916,19 +762,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "ChangePassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T21:47:06.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 29,
               "Title": "GenerateRecoveryCodes.cshtml",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml",
@@ -940,7 +774,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 31,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
@@ -952,67 +786,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "_StatusMessage.cshtml",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T19:04:47.096Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "_ManageNav.cshtml",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T19:04:30.808Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T20:03:50.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T19:05:04.422Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T21:58:46.461Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 32,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
@@ -1024,19 +798,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T22:17:56.232Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 33,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -1048,7 +810,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 34,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
@@ -1060,7 +822,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 36,
               "Title": "ExternalLogin.cshtml",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
@@ -1072,7 +834,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 37,
               "Title": "ExternalLogin.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
@@ -1084,7 +846,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 35,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
@@ -1096,7 +858,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 38,
               "Title": "ChangePassword.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
@@ -1108,43 +870,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "ExternalLogins.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T21:47:54.249Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "ExternalLogins.cshtml",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T21:47:45.425Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "AccessDenied.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
-              "ToolTip": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T21:11:24.063Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 39,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
@@ -1156,7 +882,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 40,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
@@ -1168,7 +894,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 41,
               "Title": "Logout.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
@@ -1180,7 +906,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 42,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",

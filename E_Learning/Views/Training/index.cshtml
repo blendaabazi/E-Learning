@@ -7,6 +7,9 @@
 
 <h2>@ViewData["Title"]</h2>
 
+<!-- Div për alarmin -->
+<div id="alert" class="alert-custom"></div>
+
 @if (User.IsInRole("Admin"))
 {
     <!-- Button for adding new training, opens modal -->
@@ -78,7 +81,6 @@
     </div>
 </div>
 
-
 @section Scripts {
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
 
@@ -100,21 +102,21 @@
                                                 <div class="card-body">
                                                             <h5 class="card-title">
                                                 <a href="https://localhost:7246/training/Details/${training.id}" class="text-decoration-none">${training.name}</a>
-            </h5>
-                                                    <p class="card-text"><strong>Assigned to:</strong> ${training.name}</p> 
+                                                </h5>
+                                                    <p class="card-text"><strong>Assigned to:</strong> ${training.name}</p>
                                                     </a>
-                                                 
-                                                    @if (User.IsInRole("Admin"))
-                                                    {
-                                                        <button class="btn custom-edit-btn" onclick="editTraining(${training.id}, '${training.name}', '${training.userId}')">Edit</button>
-                                                        <button class="btn btn-danger" onclick="deleteTraining(${training.id})">Delete</button>
-                                                    }
+
+        @if (User.IsInRole("Admin"))
+        {
+                                                            <button class="btn custom-edit-btn" onclick="editTraining(${training.id}, '${training.name}', '${training.userId}')">Edit</button>
+                                                            <button class="btn btn-danger" onclick="deleteTraining(${training.id})">Delete</button>
+        }
                                                 </div>
                                             </div>
                                         </div>`).join('');
                     trainingListDiv.innerHTML = listHtml;
                 })
-                .catch(error => alert('Error fetching training data: ' + error.message));
+                .catch(error => showAlert('Error fetching training data: ' + error.message, 'error'));
         }
 
         // Add a new training (POST request)
@@ -136,14 +138,16 @@
             })
                 .then(response => {
                     if (response.ok) {
-                        alert('Training added successfully!');
+                        showAlert('Training added successfully!', 'success');
                         fetchTrainings(); // Refresh the list
-                        document.getElementById('add-training-form').reset(); // Reset the form
+                         const modal = bootstrap.Modal.getInstance(document.getElementById('addTrainingModal'));
+                          modal.hide();
+                         location.reload();
                     } else {
-                        alert('Failed to add training.');
+                        showAlert('Failed to add training.', 'error');
                     }
                 })
-                .catch(error => alert('Error adding training: ' + error.message));
+                .catch(error => showAlert('Error adding training: ' + error.message, 'error'));
         });
 
         // Edit an existing training (PUT request)
@@ -173,15 +177,15 @@
                 })
                     .then(response => {
                         if (response.ok) {
-                            alert("Training updated successfully!");
+                            showAlert('Training updated successfully!', 'success');
                             fetchTrainings(); // Refresh the list
                             const modal = bootstrap.Modal.getInstance(document.getElementById('editTrainingModal'));
                             modal.hide(); // Close modal after successful update
                         } else {
-                            alert("Failed to update training.");
+                            showAlert('Failed to update training.', 'error');
                         }
                     })
-                    .catch(error => alert('Error updating training: ' + error.message));
+                    .catch(error => showAlert('Error updating training: ' + error.message, 'error'));
             };
         }
 
@@ -195,14 +199,26 @@
                 })
                     .then(response => {
                         if (response.ok) {
-                            alert('Training deleted successfully!');
+                            showAlert('Training deleted successfully!', 'success');
                             fetchTrainings(); // Refresh the list
                         } else {
-                            alert('Failed to delete training.');
+                            showAlert('Failed to delete training.', 'error');
                         }
                     })
-                    .catch(error => alert('Error deleting training: ' + error.message));
+                    .catch(error => showAlert('Error deleting training: ' + error.message, 'error'));
             }
+        }
+
+        // Function to show alerts
+        function showAlert(message, type) {
+            const alertBox = document.getElementById('alert');
+            alertBox.textContent = message;  // Set the message
+            alertBox.className = `alert-custom alert-${type} alert-show`;  // Add the corresponding class (success, error, etc.)
+
+            // Hide the alert after a few seconds
+            setTimeout(function() {
+                alertBox.classList.remove('alert-show');
+            }, 3000);  // Hide after 3 seconds
         }
 
         // Initialize and fetch the training list on page load
@@ -210,6 +226,43 @@
     </script>
 
     <style>
+        /* Stilimi i alarmeve */
+        .alert-custom {
+            padding: 15px;
+            border-radius: 5px;
+            margin: 10px 0;
+            font-size: 16px;
+            font-weight: bold;
+            color: #fff;
+            display: none; /* Fillimisht fsheh alarmin */
+            transition: opacity 0.5s ease-in-out;
+        }
+
+        /* Alarm për sukses (green) */
+        .alert-success {
+            background-color: #28a745;
+        }
+
+        /* Alarm për gabim (red) */
+        .alert-error {
+            background-color: #dc3545;
+        }
+
+        /* Alarm për informacion (blue) */
+        .alert-info {
+            background-color: #17a2b8;
+        }
+
+        /* Alarm për paralajmërim (yellow) */
+        .alert-warning {
+            background-color: #ffc107;
+        }
+
+        .alert-show {
+            display: block;
+            opacity: 1;
+        }
+
         .custom-edit-btn {
             background-color: #4DB8FF !important;
             color: white;
@@ -217,9 +270,9 @@
             transition: background-color 0.3s ease;
         }
 
-        .custom-edit-btn:hover {
-            background-color: #3a9cd6 !important;
-        }
+            .custom-edit-btn:hover {
+                background-color: #3a9cd6 !important;
+            }
 
         .card {
             border: none;
@@ -242,8 +295,8 @@
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
         }
 
-        .card:hover .card-img-top {
-            transform: scale(1.1);
-        }
+            .card:hover .card-img-top {
+                transform: scale(1.1);
+            }
     </style>
 }

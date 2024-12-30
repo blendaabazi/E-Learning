@@ -7,7 +7,7 @@ using System.Security.Claims;
 
 namespace E_Learning.Controllers
 {
-    [Authorize(Roles = "Admin")]
+    [Authorize(Roles = "Professor")]
     [Route("api/[controller]")]
     [ApiController]
     public class LectureController : ControllerBase
@@ -109,24 +109,28 @@ namespace E_Learning.Controllers
 
             if (lecture == null)
             {
-                return NotFound(new { message = "Lecture not found." });
+                return NotFound(new { message = "Ligjërata nuk u gjet." });
             }
 
-            // Additional check: Ensure the logged-in professor owns the training (if needed)
+            // Sigurohuni që profesori është ai që ka krijuar trajnimin
             var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
-            var training = await _context.Trainings.Include(t => t.User)
+            var training = await _context.Trainings
+                .Include(t => t.User)
                 .FirstOrDefaultAsync(t => t.Id == lecture.TrainingId && t.User.Id == userId);
 
             if (training == null)
             {
-                return Forbid(); // Prevent unauthorized deletions
+                return Forbid(); // Nëse profesori nuk është pronar, ndalohet veprimi
             }
 
             _context.Lectures.Remove(lecture);
             await _context.SaveChangesAsync();
 
-            return RedirectToAction("Details", new { id = lecture.TrainingId });
+            // Ktheje përdoruesin në faqen e detajeve të trajnimit pas fshirjes
+            return RedirectToAction("Details", "Training", new { id = lecture.TrainingId });
         }
+
+
 
     }
 }
