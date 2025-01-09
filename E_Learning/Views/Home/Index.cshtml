@@ -1,5 +1,8 @@
-﻿@{
+﻿@using E_Learning.Data
+@{
     ViewData["Title"] = "Home Page";
+    ViewData["CurrentPage"] = "Home Page";
+    var trainingsJson = System.Text.Json.JsonSerializer.Serialize<IEnumerable<Training>>(Model);
 }
 
 @* Import Sidebar *@
@@ -11,17 +14,22 @@
 <!-- Link për Bootstrap JS (Bundle përfshin Popper.js dhe Bootstrap JS) -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
 
-@if (!User.Identity.IsAuthenticated)
-{
-    <div class="content" style="padding: 20px;">
+<div class="content">
 
-        <!-- Slogan Section -->
-        <div id="slogan" class="text-center">
-            <p class="display-4 text-primary font-weight-bold" style="font-size: 3rem; text-transform: uppercase; letter-spacing: 2px;">E-Learning</p>
-            <h5 class="text-primary font-weight-bold">Learn Anytime, Anywhere</h5>
-            <p class="text-primary font-weight-bold">Access our courses on your schedule, from anywhere.</p>
-        </div>
+    
 
+    @if (User.Identity.IsAuthenticated)
+    {
+        <section id="latest-trainings" class="section my-5">
+            <h2 style="margin:-300px" class="text-center">Latest Trainings</h2>
+            <div class="row justify-content-center" id="training-list">
+                <!-- Trajnimet do të shfaqen këtu -->
+            </div>
+        </section>
+    }
+
+    @if (!User.Identity.IsAuthenticated)
+    {
         <!-- Carousel Section -->
         <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel" data-bs-interval="2000">
             <ol class="carousel-indicators">
@@ -56,21 +64,20 @@
             <p class="text-center">Explore a wide variety of courses that are designed to help you learn and grow professionally.</p>
             <div class="course-list row justify-content-center">
                 <div class="course-item col-12 col-md-4 text-center mb-4">
-                    <h3>Course 1</h3>
-                    <p>A brief description of Course 1.</p>
+                    <h3>Java</h3>
+                    <p>If you want to view the course please login</p>
                 </div>
                 <div class="course-item col-12 col-md-4 text-center mb-4">
-                    <h3>Course 2</h3>
-                    <p>A brief description of Course 2.</p>
+                    <h3>Python</h3>
+                    <p>If you want to view the course please login.</p>
                 </div>
                 <div class="course-item col-12 col-md-4 text-center mb-4">
-                    <h3>Course 3</h3>
-                    <p>A brief description of Course 3.</p>
+                    <h3>React Js</h3>
+                    <p>If you want to view the course please login.</p>
                 </div>
             </div>
         </section>
-
-    </div>
+    }
 
     <!-- About Us Section -->
     <section id="about-us" class="section my-5">
@@ -89,24 +96,75 @@
     </section>
 
     <!-- Footer -->
-    <footer class="text-center py-4">
-        <p>&copy; 2024 E-Learning Platform. All Rights Reserved.</p>
-    </footer>
-}
-else
-{
-    <div class="wrapper">
-        @* Import Sidebar *@
-        @await Html.PartialAsync("Sidebar")
+ 
+</div>
 
-        <!-- Main Content Area -->
-        <div class="main p-3">
-            <div class="text-center">
-                <h1>@ViewData["Title"]</h1>
-            </div>
-            <div>
-                <!-- Your dashboard content goes here -->
-            </div>
-        </div>
-    </div>
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+        const apiUrl = 'https://localhost:7246/api/training/latest';  // Define API URL
+
+        // Fetch training data (GET request)
+        function fetchTrainings() {
+            axios.get(apiUrl)
+                .then(response => {
+                    console.log(response.data);  // Shihni të dhënat që kthehen
+                    const trainingListDiv = document.getElementById('training-list');
+                    const listHtml = response.data.map(training =>
+                        `<div class="col-md-4 mb-4">
+                                             <a href="https://localhost:7246/training/Details/${training.id}" class="text-decoration-none">
+                                                <div class="card shadow-lg rounded-3">
+                                                    <img src="${training.filePath || 'https://via.placeholder.com/300x200.png?text=E-Learning'}"
+                                                         class="card-img-top rounded-top" alt="Training Image">
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">${training.name}</h5>
+                                                        <p class="card-text"><strong>Assigned to:</strong> ${training.name}</p>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>`).join('');
+                    trainingListDiv.innerHTML = listHtml;
+                })
+                .catch(error => console.error('Error fetching training data:', error));
+        }
+
+        // Thirrja e funksionit kur faqja është ngarkuar
+        document.addEventListener('DOMContentLoaded', function () {
+            fetchTrainings();
+        });
+    </script>
 }
+<style>
+    .content{
+        margin-left:50px;
+    }
+    /* Rregullo seksionin që përmban trajnimet */
+    #latest-trainings {
+        margin-top: -50px; /* Lëviz seksionin më lart */
+        padding-top: 20px; /* Sigurohuni që ka mjaft hapësirë brenda seksionit */
+    }
+
+    /* Shtoni ndonjë stil tjetër që mund të nevojitet për paraqitjen */
+    #training-list {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .card {
+        width: 100%;
+        max-width: 300px;
+        margin: 10px;
+    }
+
+    .card-img-top {
+        height: 200px;
+        object-fit: cover;
+    }
+</style>
+
+
+

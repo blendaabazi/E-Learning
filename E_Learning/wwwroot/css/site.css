@@ -140,7 +140,7 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    height: 100vh;
+    height: 200vh;
 }
 
 /* Container for Login Box */
@@ -161,12 +161,12 @@ body {
     text-align: center;
 }
 
-h1 {
+/*h1 {
     color: #333;
     font-size: 30px;
     font-weight: bold;
     margin-bottom: 30px;
-}
+}*/
 
 /* Form Elements */
 .form-floating {
@@ -186,7 +186,7 @@ h1 {
 
 /* Button Styles */
 button {
-    background-color: #0095f6; /* Instagram's blue color */
+    background-color: #0095f6;
     color: #fff;
     border: none;
     padding: 12px;
@@ -280,3 +280,6 @@ button {
 /*.checkbox {
     margin-bottom: 20px;
 }*/
+
+
+

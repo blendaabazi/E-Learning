@@ -57,6 +57,37 @@ namespace E_Learning.Controllers
 
             return Ok(userData);
         }
+        [HttpGet]
+        [Route("api/professor")]
+        public async Task<IActionResult> GetProff()
+        {
+            // Get all users
+            var users = await _userManager.Users.ToListAsync();
+            var userList = new List<object>();
+
+
+            foreach (var user in users)
+            {
+                // Get the roles of the user
+                var roles = await _userManager.GetRolesAsync(user);
+
+                // Check if the user has the "Professor" role
+                if (roles.Contains("Professor"))
+                {
+                    userList.Add(new
+                    {
+                        user.Id,
+                        user.Name,
+                        user.UserName,
+                        user.Email,
+                        user.PhoneNumber,
+                        Role = roles.FirstOrDefault() ?? "No Role"
+                    });
+                }
+            }
+
+            return Ok(userList);
+        }
 
 
         // GET: API - Display all users with roles

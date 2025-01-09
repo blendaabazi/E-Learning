@@ -52,8 +52,19 @@
             </div>
         </nav>
     </header>
+    @if (ViewData["CurrentPage"] == "Home Page")
+    {
+        <div id="slogan" class="text-center mt-5">
+            <p class="display-4 text-primary font-weight-bold" style="font-size: 3rem; text-transform: uppercase; letter-spacing: 2px;">E-Learning</p>
+            <h5 class="text-primary font-weight-bold">Learn Anytime, Anywhere</h5>
+            <p class="text-primary font-weight-bold">Access our courses on your schedule, from anywhere.</p>
+        </div>
+    }
+
+
     <div class="container">
         <main role="main" class="pb-3">
+
             @RenderBody()
         </main>
     </div>
@@ -97,4 +108,7 @@
 
     @await RenderSectionAsync("Scripts", required: false)
 </body>
+<footer class="text-center py-4">
+    <p>&copy; 2024 E-Learning Platform. All Rights Reserved.</p>
+</footer>
 </html>

@@ -191,6 +191,26 @@ namespace E_Learning.Controllers
             TempData["Message"] = "File uploaded successfully.";
             return RedirectToAction("Details", new { id });
         }
+        [HttpGet]
+        [Route("api/training/latest")]
+        public async Task<IActionResult> GetLatestTrainings()
+        {
+            var latestTrainings = await _context.Trainings
+                .Include(t => t.User) // Përfshi të dhënat e profesorit
+                .OrderByDescending(t => t.Id) // Rendit sipas ID-së në mënyrë zbritëse
+                .Take(3) // Merr vetëm 3 trajnimet e fundit
+                .Select(t => new
+                {
+                    t.Id,
+                    t.Name,
+                    ProfessorName = t.User.UserName, // Emri i profesorit
+                    t.FilePath
+                })
+                .ToListAsync();
+
+            return Ok(latestTrainings);
+        }
+
 
 
         public IActionResult Details(int id)

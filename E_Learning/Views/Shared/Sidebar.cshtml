@@ -31,6 +31,12 @@
                             <i class="lni lni-user"></i>
                             <span>Profile</span>
                         </a> *@
+                         <div>
+                              <a href="/home/Index" title="Home" class="sidebar-link">
+                                    <i class="lni lni-home"></i>
+                                    <span>Home</span>
+                                </a>
+                        </div>
                         <a class="sidebar-link" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">
                             <i class="lni lni-user"></i>
                             <span>Profile</span>
@@ -65,21 +71,7 @@
                             <span>Task</span>
                         </a>
                     </li> *@
-                    <li class="sidebar-item">
-                        <a href="#" class="sidebar-link collapsed has-dropdown" data-bs-toggle="collapse"
-                        data-bs-target="#auth" aria-expanded="false" aria-controls="auth">
-                            <i class="lni lni-protection"></i>
-                            <span>Auth</span>
-                        </a>
-                        <ul id="auth" class="sidebar-dropdown list-unstyled collapse" data-bs-parent="#sidebar">
-                            <li class="sidebar-item">
-                                <a href="#" class="sidebar-link">Login</a>
-                            </li>
-                            <li class="sidebar-item">
-                                <a href="#" class="sidebar-link">Register</a>
-                            </li>
-                        </ul>
-                    </li>
+                   
                   @*   <li class="sidebar-item">
                         <a href="#" class="sidebar-link collapsed has-dropdown" data-bs-toggle="collapse"
                         data-bs-target="#multi" aria-expanded="false" aria-controls="multi">
@@ -109,12 +101,7 @@
                             <span>Notification</span>
                         </a>
                     </li> *@
-                    <li class="sidebar-item">
-                        <a href="#" class="sidebar-link">
-                            <i class="lni lni-cog"></i>
-                            <span>Setting</span>
-                        </a>
-                    </li>
+                  
                 </ul>
                 <div class="sidebar-footer">
                    @*  <a href="#" class="sidebar-link">

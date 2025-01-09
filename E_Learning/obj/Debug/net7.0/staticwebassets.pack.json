@@ -1,420 +1,456 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\E_Learning.bundle.scp.css",
-      "PackagePath": "staticwebassets\\E_Learning.grb0vxmwg3.bundle.scp.css"
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\E_Learning.bundle.scp.css",
+      "PackagePath": "staticwebassets\\E_Learning.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\07a95abf-296b-4faa-9914-93db24735c2a.pptx",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\07a95abf-296b-4faa-9914-93db24735c2a.pptx",
       "PackagePath": "staticwebassets\\Uploads\\07a95abf-296b-4faa-9914-93db24735c2a.pptx"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\08244411-e84c-4de5-a834-c9d8f14c0c2e.docx",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\08244411-e84c-4de5-a834-c9d8f14c0c2e.docx",
       "PackagePath": "staticwebassets\\Uploads\\08244411-e84c-4de5-a834-c9d8f14c0c2e.docx"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\0a30d918-d81f-4413-bcbb-2e8fa592fabe.pptx",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\0a30d918-d81f-4413-bcbb-2e8fa592fabe.pptx",
       "PackagePath": "staticwebassets\\Uploads\\0a30d918-d81f-4413-bcbb-2e8fa592fabe.pptx"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\184d1d28-102c-469b-9d68-0fd3b717240b.png",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\0e1ea345-7ae9-4802-944d-e3fb643e1a62.docx",
+      "PackagePath": "staticwebassets\\Uploads\\0e1ea345-7ae9-4802-944d-e3fb643e1a62.docx"
+    },
+    {
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\184d1d28-102c-469b-9d68-0fd3b717240b.png",
       "PackagePath": "staticwebassets\\Uploads\\184d1d28-102c-469b-9d68-0fd3b717240b.png"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\19442641-8116-410c-8802-9fe5528579ab.docx",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\1877bb67-f337-4d0f-b297-ed602c7b72f9.png",
+      "PackagePath": "staticwebassets\\Uploads\\1877bb67-f337-4d0f-b297-ed602c7b72f9.png"
+    },
+    {
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\19442641-8116-410c-8802-9fe5528579ab.docx",
       "PackagePath": "staticwebassets\\Uploads\\19442641-8116-410c-8802-9fe5528579ab.docx"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\19879e8d-9b81-4a83-bf3a-29c1ec5f560c.pptx",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\19879e8d-9b81-4a83-bf3a-29c1ec5f560c.pptx",
       "PackagePath": "staticwebassets\\Uploads\\19879e8d-9b81-4a83-bf3a-29c1ec5f560c.pptx"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\28dd7941-0dcd-4660-a485-6a12327062aa.png",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\28dd7941-0dcd-4660-a485-6a12327062aa.png",
       "PackagePath": "staticwebassets\\Uploads\\28dd7941-0dcd-4660-a485-6a12327062aa.png"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\557551d2-c128-43cc-8088-18bfbe512b90.docx",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\557551d2-c128-43cc-8088-18bfbe512b90.docx",
       "PackagePath": "staticwebassets\\Uploads\\557551d2-c128-43cc-8088-18bfbe512b90.docx"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\652066b1-585f-48cd-86b7-111710d5651c.docx",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\652066b1-585f-48cd-86b7-111710d5651c.docx",
       "PackagePath": "staticwebassets\\Uploads\\652066b1-585f-48cd-86b7-111710d5651c.docx"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\78da6d56-b0e0-4bc0-a4a2-bb9c02ccfcf6.pptx",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\78da6d56-b0e0-4bc0-a4a2-bb9c02ccfcf6.pptx",
       "PackagePath": "staticwebassets\\Uploads\\78da6d56-b0e0-4bc0-a4a2-bb9c02ccfcf6.pptx"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\9cd4bfcd-edda-4823-8038-9a79baf4eccc.pptx",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\8c18ebe1-47a1-490f-9523-7d154c31e6ca.docx",
+      "PackagePath": "staticwebassets\\Uploads\\8c18ebe1-47a1-490f-9523-7d154c31e6ca.docx"
+    },
+    {
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\8c81b101-50f2-4eb7-a515-389d75a84f2d.pptx",
+      "PackagePath": "staticwebassets\\Uploads\\8c81b101-50f2-4eb7-a515-389d75a84f2d.pptx"
+    },
+    {
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\957d67e5-2b54-4ae2-a7f7-97922be1c999.pptx",
+      "PackagePath": "staticwebassets\\Uploads\\957d67e5-2b54-4ae2-a7f7-97922be1c999.pptx"
+    },
+    {
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\9cd4bfcd-edda-4823-8038-9a79baf4eccc.pptx",
       "PackagePath": "staticwebassets\\Uploads\\9cd4bfcd-edda-4823-8038-9a79baf4eccc.pptx"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\a8eacf5c-b443-428d-bfe4-c2344fc0cc49.pptx",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\a8eacf5c-b443-428d-bfe4-c2344fc0cc49.pptx",
       "PackagePath": "staticwebassets\\Uploads\\a8eacf5c-b443-428d-bfe4-c2344fc0cc49.pptx"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\b1ba783b-3dbe-4251-a8fa-4bce7c9dcfda.pptx",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\b1ba783b-3dbe-4251-a8fa-4bce7c9dcfda.pptx",
       "PackagePath": "staticwebassets\\Uploads\\b1ba783b-3dbe-4251-a8fa-4bce7c9dcfda.pptx"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\b4889b64-448c-42ae-a5e4-4fddef1f9725.png",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\b4889b64-448c-42ae-a5e4-4fddef1f9725.png",
       "PackagePath": "staticwebassets\\Uploads\\b4889b64-448c-42ae-a5e4-4fddef1f9725.png"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\c3e9d5dd-963f-4683-93ae-007cafc01d54.png",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\b73aead8-0613-496b-8822-09cbd9ee007f.docx",
+      "PackagePath": "staticwebassets\\Uploads\\b73aead8-0613-496b-8822-09cbd9ee007f.docx"
+    },
+    {
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\b826fb44-2fa3-4525-b177-c7f4b3bfbc8f.pptx",
+      "PackagePath": "staticwebassets\\Uploads\\b826fb44-2fa3-4525-b177-c7f4b3bfbc8f.pptx"
+    },
+    {
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\c3e9d5dd-963f-4683-93ae-007cafc01d54.png",
       "PackagePath": "staticwebassets\\Uploads\\c3e9d5dd-963f-4683-93ae-007cafc01d54.png"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\cdd7884b-3708-4654-87a5-a865c81a128a.png",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\cdd7884b-3708-4654-87a5-a865c81a128a.png",
       "PackagePath": "staticwebassets\\Uploads\\cdd7884b-3708-4654-87a5-a865c81a128a.png"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\d9002eba-7817-454c-a38b-a1ba95edf076.jpg",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\d9002eba-7817-454c-a38b-a1ba95edf076.jpg",
       "PackagePath": "staticwebassets\\Uploads\\d9002eba-7817-454c-a38b-a1ba95edf076.jpg"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\dc2ec196-48bb-4365-bfd1-e180c7df767d.pptx",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\dc1c58bb-6321-4671-bc37-fc7acba84466.docx",
+      "PackagePath": "staticwebassets\\Uploads\\dc1c58bb-6321-4671-bc37-fc7acba84466.docx"
+    },
+    {
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\dc2ec196-48bb-4365-bfd1-e180c7df767d.pptx",
       "PackagePath": "staticwebassets\\Uploads\\dc2ec196-48bb-4365-bfd1-e180c7df767d.pptx"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\e3f8e1a2-c776-4a0b-b5a3-89dd7095c091.pptx",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\e3f8e1a2-c776-4a0b-b5a3-89dd7095c091.pptx",
       "PackagePath": "staticwebassets\\Uploads\\e3f8e1a2-c776-4a0b-b5a3-89dd7095c091.pptx"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\f0ad1ae8-4e61-41e4-b903-2a386a0f617d.pptx",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\ef0e744c-843b-4d65-8a7e-da43b4a9b15a.pptx",
+      "PackagePath": "staticwebassets\\Uploads\\ef0e744c-843b-4d65-8a7e-da43b4a9b15a.pptx"
+    },
+    {
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\f0ad1ae8-4e61-41e4-b903-2a386a0f617d.pptx",
       "PackagePath": "staticwebassets\\Uploads\\f0ad1ae8-4e61-41e4-b903-2a386a0f617d.pptx"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\client-app\\build\\asset-manifest.json",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\f7294715-9523-42f5-aba6-10b4e62fff91.docx",
+      "PackagePath": "staticwebassets\\Uploads\\f7294715-9523-42f5-aba6-10b4e62fff91.docx"
+    },
+    {
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\client-app\\build\\asset-manifest.json",
       "PackagePath": "staticwebassets\\client-app\\build\\asset-manifest.json"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\client-app\\build\\manifest.json",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\client-app\\build\\manifest.json",
       "PackagePath": "staticwebassets\\client-app\\build\\manifest.json"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\Note.txt",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\Note.txt",
       "PackagePath": "staticwebassets\\images\\brand-logos\\Note.txt"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\almarah.png",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\almarah.png",
       "PackagePath": "staticwebassets\\images\\brand-logos\\almarah.png"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\e-learning.png",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\e-learning.png",
       "PackagePath": "staticwebassets\\images\\brand-logos\\e-learning.png"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\etimadya.png",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\etimadya.png",
       "PackagePath": "staticwebassets\\images\\brand-logos\\etimadya.png"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\khostan.png",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\khostan.png",
       "PackagePath": "staticwebassets\\images\\brand-logos\\khostan.png"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\matoontapa.png",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\matoontapa.png",
       "PackagePath": "staticwebassets\\images\\brand-logos\\matoontapa.png"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\nadershakot.png",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\nadershakot.png",
       "PackagePath": "staticwebassets\\images\\brand-logos\\nadershakot.png"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\torghar.png",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\torghar.png",
       "PackagePath": "staticwebassets\\images\\brand-logos\\torghar.png"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\courses\\course-1.jpg",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\courses\\course-1.jpg",
       "PackagePath": "staticwebassets\\images\\courses\\course-1.jpg"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\courses\\teacher-1.jpg",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\courses\\teacher-1.jpg",
       "PackagePath": "staticwebassets\\images\\courses\\teacher-1.jpg"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\default-profile-picture.jpg",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\default-profile-picture.jpg",
       "PackagePath": "staticwebassets\\images\\default-profile-picture.jpg"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\home\\logo.png",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\home\\logo.png",
       "PackagePath": "staticwebassets\\images\\home\\logo.png"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\home\\pattern.png",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\home\\pattern.png",
       "PackagePath": "staticwebassets\\images\\home\\pattern.png"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\home\\student.png",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\home\\student.png",
       "PackagePath": "staticwebassets\\images\\home\\student.png"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\login.avif",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\login.avif",
       "PackagePath": "staticwebassets\\images\\login.avif"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\login.jpeg",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\login.jpeg",
       "PackagePath": "staticwebassets\\images\\login.jpeg"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\slider\\foto.jpg",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\slider\\foto.jpg",
       "PackagePath": "staticwebassets\\images\\slider\\foto.jpg"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\slider\\foto.png",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\slider\\foto.png",
       "PackagePath": "staticwebassets\\images\\slider\\foto.png"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\slider\\foto1.png",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\slider\\foto1.png",
       "PackagePath": "staticwebassets\\images\\slider\\foto1.png"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\testimonials\\student-1.jpg",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\testimonials\\student-1.jpg",
       "PackagePath": "staticwebassets\\images\\testimonials\\student-1.jpg"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\altin\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.E_Learning.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
-      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.E_Learning.Microsoft.AspNetCore.StaticWebAssets.props",

@@ -36,10 +36,6 @@
                         <label for="userId" class="form-label">Assign to User:</label>
                         <select id="userId" class="form-select" required>
                             <option value="">Select User</option>
-                            @foreach (var user in ViewBag.Users as List<ApplicationUser>)
-                            {
-                                <option value="@user.Id">@user.Name</option>
-                            }
                         </select>
                     </div>
                     <button type="submit" class="btn btn-primary">Add Training</button>
@@ -66,7 +62,7 @@
                     <div class="mb-3">
                         <label for="edit-userId" class="form-label">Assign to User:</label>
                         <select id="edit-userId" class="form-select" required>
-                            <option value="">Select User</option>
+                         
                             @foreach (var user in ViewBag.Users as List<ApplicationUser>)
                             {
                                 <option value="@user.Id">@user.Name</option>
@@ -218,7 +214,7 @@
             // Hide the alert after a few seconds
             setTimeout(function() {
                 alertBox.classList.remove('alert-show');
-            }, 3000);  // Hide after 3 seconds
+            }, 5000);  // Hide after 3 seconds
         }
 
         // Initialize and fetch the training list on page load
@@ -298,5 +294,51 @@
             .card:hover .card-img-top {
                 transform: scale(1.1);
             }
+
+        #training-list{
+            margin-left:30px;
+        }
     </style>
+    <script>
+    // Fetch professors from the API
+        // Fetch professors from the API
+        // Fetch professors from the API
+        async function fetchProfessors() {
+            try {
+                const response = await fetch('/api/professor'); // Make sure this returns the right data
+                const users = await response.json();
+
+                const userSelect = document.getElementById('userId');
+
+                // Clear existing options
+                userSelect.innerHTML = '<option value="">Select Professor</option>';
+
+                // Filter the users to include only those with the role "Professor"
+                const professors = users.filter(user => user.role === 'Professor');
+
+                // Check if there are professors
+                if (professors.length > 0) {
+                    // Populate the dropdown with professor users
+                    professors.forEach(professor => {
+                        const option = document.createElement('option');
+                        option.value = professor.id;  // The ID will be the value of the option
+                        option.textContent = professor.name;  // The professor's name will be shown in the dropdown
+                        userSelect.appendChild(option);
+                    });
+                } else {
+                    // No need for an alert, you can log it or handle differently
+                    console.log('No professors found.');
+                }
+            } catch (error) {
+                console.error('Error fetching professors:', error);
+            }
+        }
+
+        // Call the function when the page loads
+        document.addEventListener('DOMContentLoaded', fetchProfessors);
+
+
+    document.addEventListener('DOMContentLoaded', fetchProfessors);
+</script>
 }
+
