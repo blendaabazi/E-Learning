@@ -41,10 +41,11 @@
                             <i class="lni lni-user"></i>
                             <span>Profile</span>
                         </a>
-                        <a class="sidebar-link" asp-controller="Dashboard" asp-action="Index" title="Dashboard">
-                            <i class="lni lni-dashboard"></i>
-                            <span>Dashboard</span>
-                        </a>
+                         <a href="/Dashboard/Index" title="Dashboard" class="sidebar-link">
+                                    <i class="lni lni-dashboard"></i>
+                                    <span>Dashboard</span>
+                                </a>
+                            
                         @if (User.IsInRole("Admin"))
                         {
                             <div class="sidebar-footer">

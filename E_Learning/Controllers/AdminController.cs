@@ -30,10 +30,38 @@ namespace E_Learning.Controllers
             // Kthejeni të dhënat në View
             return View(user);  // Kjo kalon listën e trajnimeve në View
         }
-        // GET: API - Get user by ID
+
+
+        //// GET: API - Get user by ID
+        //[HttpGet]
+        //[Route("api/user/{id}")]
+        //public async Task<IActionResult> GetUserById(string id)
+        //{
+        //    var user = await _userManager.Users
+        //                                 .Where(u => u.Id == id)
+        //                                 .FirstOrDefaultAsync();
+
+        //    if (user == null)
+        //    {
+        //        return NotFound("User not found.");
+        //    }
+
+        //    var roles = await _userManager.GetRolesAsync(user);
+        //    var userData = new
+        //    {
+        //        user.Id,
+        //        user.Name,
+        //        user.UserName,
+        //        user.Email,
+        //        user.PhoneNumber,
+        //        Role = roles.FirstOrDefault() ?? "No Role"
+        //    };
+
+        //    return Ok(userData);
+        //}
         [HttpGet]
-        [Route("api/user/{id}")]
-        public async Task<IActionResult> GetUserById(string id)
+        [Route("api/v1/user/{id}")] // V1 version
+        public async Task<IActionResult> GetUserByIdV1(string id)
         {
             var user = await _userManager.Users
                                          .Where(u => u.Id == id)
@@ -57,6 +85,36 @@ namespace E_Learning.Controllers
 
             return Ok(userData);
         }
+
+        [HttpGet]
+        [Route("api/v2/user/{id}")] // V2 version
+        public async Task<IActionResult> GetUserByIdV2(string id)
+        {
+            var user = await _userManager.Users
+                                         .Where(u => u.Id == id)
+                                         .FirstOrDefaultAsync();
+
+            if (user == null)
+            {
+                return NotFound("User not found.");
+            }
+
+            var roles = await _userManager.GetRolesAsync(user);
+            var userData = new
+            {
+                user.Id,
+                user.Name,
+                user.UserName,
+                user.Email,
+                user.PhoneNumber,
+                Roles = roles // Return all roles instead of just the first one
+            };
+
+            return Ok(userData);
+        }
+
+
+
         [HttpGet]
         [Route("api/professor")]
         public async Task<IActionResult> GetProff()
@@ -87,6 +145,59 @@ namespace E_Learning.Controllers
             }
 
             return Ok(userList);
+        }
+        [HttpGet]
+        [Route("api/admins")] // Kthen të gjithë përdoruesit me rolin "Admin"
+        public async Task<IActionResult> GetAdmins()
+        {
+            var users = await _userManager.Users.ToListAsync();
+            var admins = new List<object>();
+
+            foreach (var user in users)
+            {
+                var roles = await _userManager.GetRolesAsync(user);
+                if (roles.Contains("Admin"))
+                {
+                    admins.Add(new
+                    {
+                        user.Id,
+                        user.Name,
+                        user.UserName,
+                        user.Email,
+                        user.PhoneNumber,
+                        Role = roles.FirstOrDefault() ?? "No Role"
+                    });
+                }
+            }
+
+            return Ok(admins);
+        }
+
+        [HttpGet]
+        [Route("api/student")] // Kthen të gjithë përdoruesit me rolin "Admin"
+        public async Task<IActionResult> GetStudent()
+        {
+            var users = await _userManager.Users.ToListAsync();
+            var admins = new List<object>();
+
+            foreach (var user in users)
+            {
+                var roles = await _userManager.GetRolesAsync(user);
+                if (roles.Contains("User"))
+                {
+                    admins.Add(new
+                    {
+                        user.Id,
+                        user.Name,
+                        user.UserName,
+                        user.Email,
+                        user.PhoneNumber,
+                        Role = roles.FirstOrDefault() ?? "No Role"
+                    });
+                }
+            }
+
+            return Ok(admins);
         }
 
 
@@ -246,7 +357,45 @@ namespace E_Learning.Controllers
 
             return BadRequest(result.Errors);
         }
+
+        [HttpGet]
+        [Route("api/admin/user-statistics")]
+        public async Task<IActionResult> GetUserStatistics()
+        {
+            var users = await _userManager.Users.ToListAsync();
+
+            int professorCount = 0;
+            int adminCount = 0;
+            int studentCount = 0;
+
+            foreach (var user in users)
+            {
+                var roles = await _userManager.GetRolesAsync(user);
+
+                if (roles.Contains("Professor"))
+                {
+                    professorCount++;
+                }
+                else if (roles.Contains("Admin"))
+                {
+                    adminCount++;
+                }
+                else
+                {
+                    studentCount++;
+
+                }
+            }
+
+            return Ok(new
+            {
+                Professors = professorCount,
+                Admins = adminCount,
+                Student=studentCount
+            });
+        }
     }
+
 
     // Model for creating a user
     public class CreateUserModel

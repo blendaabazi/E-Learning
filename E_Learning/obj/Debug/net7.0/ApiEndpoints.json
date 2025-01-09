@@ -65,6 +65,16 @@
   },
   {
     "ContainingType": "E_Learning.Controllers.AdminController",
+    "Method": "GetUserStatistics",
+    "RelativePath": "api/admin/user-statistics",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_Learning.Controllers.AdminController",
     "Method": "DeleteUser",
     "RelativePath": "api/admin/users/{id}",
     "HttpMethod": "DELETE",
@@ -77,6 +87,16 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_Learning.Controllers.AdminController",
+    "Method": "GetAdmins",
+    "RelativePath": "api/admins",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   },
   {
@@ -93,6 +113,26 @@
         "IsRequired": false
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_Learning.Controllers.AdminController",
+    "Method": "GetProff",
+    "RelativePath": "api/professor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_Learning.Controllers.AdminController",
+    "Method": "GetStudent",
+    "RelativePath": "api/student",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   },
   {
@@ -160,6 +200,16 @@
   },
   {
     "ContainingType": "E_Learning.Controllers.TrainingController",
+    "Method": "GetLatestTrainings",
+    "RelativePath": "api/training/latest",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_Learning.Controllers.TrainingController",
     "Method": "UploadFile",
     "RelativePath": "api/upload",
     "HttpMethod": "POST",
@@ -190,9 +240,19 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "E_Learning.Controllers.TrainingController",
+    "Method": "GetUsers",
+    "RelativePath": "api/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "E_Learning.Controllers.AdminController",
-    "Method": "GetUserById",
-    "RelativePath": "api/user/{id}",
+    "Method": "GetUserByIdV1",
+    "RelativePath": "api/v1/user/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -206,23 +266,19 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "E_Learning.Controllers.TrainingController",
-    "Method": "GetUsers",
-    "RelativePath": "api/users",
+    "ContainingType": "E_Learning.Controllers.AdminController",
+    "Method": "GetUserByIdV2",
+    "RelativePath": "api/v2/user/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "E_Learning.Controllers.TrainingController",
-    "Method": "GetTrainings",
-    "RelativePath": "sss",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   }
 ]

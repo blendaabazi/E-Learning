@@ -231,23 +231,24 @@ namespace E_Learning.Controllers
 
 
         // API GET: Retrieve all training records with file path and professor name
-        [HttpGet("sss")]
-        public async Task<IActionResult> GetTrainings()
-        {
-            var trainings = await _context.Trainings
-                .Include(t => t.User)
-                .ToListAsync();
+        //[HttpGet("")]
+        //public async Task<IActionResult> GetTrainings()
+        //{
+        //    var trainings = await _context.Trainings
+        //        .Include(t => t.User)
+        //        .ToListAsync();
 
-            var trainingDtos = trainings.Select(t => new
-            {
-                t.Id,
-                t.Name,
-                t.FilePath,
-                UserName = t.User?.UserName ?? "Not Assigned"
-            });
 
-            return Ok(trainingDtos);
-        }
+        //    var trainingDtos = trainings.Select(t => new
+        //    {
+        //        t.Id,
+        //        t.Name,
+        //        t.FilePath,
+        //        UserName = t.User?.UserName ?? "Not Assigned"
+        //    });
+
+        //    return Ok(trainingDtos);
+        //}
 
         // API GET: Retrieve all users (Admin role required)
         [Authorize(Roles = "Admin")]
