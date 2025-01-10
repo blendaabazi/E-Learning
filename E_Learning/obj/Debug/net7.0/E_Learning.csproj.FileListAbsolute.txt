@@ -890,3 +890,9 @@ C:\Users\Naim\OneDrive\Desktop\E-Learning\E_Learning\bin\Debug\net7.0\wwwroot\cl
 C:\Users\Naim\OneDrive\Desktop\E-Learning\E_Learning\bin\Debug\net7.0\wwwroot\client-app\build\manifest.json
 C:\Users\altin\OneDrive\Desktop\E-Learning\E_Learning\bin\Debug\net7.0\wwwroot\client-app\build\asset-manifest.json
 C:\Users\altin\OneDrive\Desktop\E-Learning\E_Learning\bin\Debug\net7.0\wwwroot\client-app\build\manifest.json
+C:\Users\Erjon\desktop\E-Learning\E_Learning\bin\Debug\net7.0\wwwroot\client-app\build\asset-manifest.json
+C:\Users\Erjon\desktop\E-Learning\E_Learning\bin\Debug\net7.0\wwwroot\client-app\build\manifest.json
+C:\Users\Erjon\desktop\E-Learning\E_Learning\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Erjon\desktop\E-Learning\E_Learning\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Erjon\desktop\E-Learning\E_Learning\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Erjon\desktop\E-Learning\E_Learning\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll

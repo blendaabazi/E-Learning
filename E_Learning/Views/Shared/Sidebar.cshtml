@@ -41,13 +41,14 @@
                             <i class="lni lni-user"></i>
                             <span>Profile</span>
                         </a>
-                         <a href="/Dashboard/Index" title="Dashboard" class="sidebar-link">
-                                    <i class="lni lni-dashboard"></i>
-                                    <span>Dashboard</span>
-                                </a>
+                      
                             
                         @if (User.IsInRole("Admin"))
                         {
+   <a href="/Dashboard/Index" title="Dashboard" class="sidebar-link">
+                                    <i class="lni lni-dashboard"></i>
+                                    <span>Dashboard</span>
+                                </a>
                             <div class="sidebar-footer">
                                 <a href="/Admin/Index" title="Dashboard" class="sidebar-link">
                                     <i class="lni lni-list"></i>
@@ -57,12 +58,21 @@
 
                             </div>
                         }
+      
+                    
                         <div>
+                              <a href="/DashboardProf/index" title="DashboardProf" class="sidebar-link">
+                                    <i class="lni lni-dashboard"></i>
+                                    <span>Dashboard</span>
+                                </a>
+                        </div>
+                              <div>
                               <a href="/training/Index" title="Trajnime" class="sidebar-link">
                                     <i class="lni lni-list"></i>
                                     <span>Ttraining</span>
                                 </a>
                         </div>
+
 
 
                     </li>
