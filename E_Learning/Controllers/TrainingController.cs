@@ -6,32 +6,116 @@ using E_Learning.Data;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using E_Learning.Models;
+using E_Learning.Services;
+using Newtonsoft.Json; // Sigurohu që klasa RedisCacheService është e importuar
 
 namespace E_Learning.Controllers
 {
     public class TrainingController : Controller
     {
         private readonly ApplicationDbContext _context;
+        private readonly RedisCacheService _redisCache;
 
-        public TrainingController(ApplicationDbContext context)
+        public TrainingController(ApplicationDbContext context, RedisCacheService redisCache)
         {
             _context = context;
+            _redisCache = redisCache; // Injektimi i shërbimit RedisCacheService
         }
 
         // MVC Index: Displays a list of trainings
         public IActionResult Index()
         {
-            var trainings = _context.Trainings
-                .Include(t => t.User) // Include the related professor (user)
-                .ToList();
+            var trainingsCacheKey = "trainings";
+            var trainings = _redisCache.GetValueAsync(trainingsCacheKey).Result;
 
-            var users = _context.Users.ToList();
+            if (string.IsNullOrEmpty(trainings))
+            {
+                var trainingList = _context.Trainings
+                    .Include(t => t.User)
+                    .ToList();
 
-            ViewBag.Trainings = trainings;
-            ViewBag.Users = users;
+                if (trainingList.Count > 0)
+                {
+                    var serializedTrainings = JsonConvert.SerializeObject(trainingList);
+                    _redisCache.SetValueAsync(trainingsCacheKey, serializedTrainings).Wait();
+                    Console.WriteLine("Trainings saved to Redis successfully.");
+                }
+
+                var users = _context.Users.ToList();
+                ViewBag.Users = users;
+                ViewBag.Trainings = trainingList;
+            }
+            else
+            {
+                Console.WriteLine("Trainings retrieved from Redis.");
+                try
+                {
+                    var trainingList = JsonConvert.DeserializeObject<List<Training>>(trainings);
+                    if (trainingList == null)
+                    {
+                        ViewBag.Trainings = new List<Training>();
+                    }
+                    else
+                    {
+                        ViewBag.Trainings = trainingList;
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("Error deserializing Redis data: " + ex.Message);
+                    ViewBag.Trainings = new List<Training>();
+                }
+            }
 
             return View();
         }
+
+        [Authorize(Roles = "Admin")]
+        [HttpPost("api/training/set")]
+        public async Task<IActionResult> CreateTrainingAndSetCache([FromBody] TrainingDto trainingDto)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            var user = await _context.Users.FindAsync(trainingDto.UserId);
+            if (user == null)
+            {
+                return NotFound(new { message = "User not found." });
+            }
+
+            var training = new Training
+            {
+                Name = trainingDto.Name,
+                FilePath = trainingDto.FilePath,
+                UserId = trainingDto.UserId,
+                User = user
+            };
+
+            try
+            {
+                // Shto trajnim në databazë
+                _context.Trainings.Add(training);
+                await _context.SaveChangesAsync();
+
+                // Pasi krijohet trajnim, pastroni cache për trajnime
+                await _redisCache.SetValueAsync("trainings", null); // Pastroni cache të trajnimeve të vjetra
+
+                // Ruaj trajnimet e reja në cache
+                var trainingList = _context.Trainings.Include(t => t.User).ToList();
+                await _redisCache.SetValueAsync("trainings", Newtonsoft.Json.JsonConvert.SerializeObject(trainingList), TimeSpan.FromMinutes(5));
+
+                return CreatedAtAction(nameof(GetTraining), new { id = training.Id }, training);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { message = $"Error creating training: {ex.Message}" });
+            }
+        }
+
+
+
 
         // API GET: Retrieve all training records
         [HttpGet]
@@ -56,7 +140,6 @@ namespace E_Learning.Controllers
         [Route("api/training")]
         public async Task<IActionResult> CreateTraining([FromBody] TrainingDto trainingDto)
         {
-            // Validate the incoming data
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
@@ -80,6 +163,14 @@ namespace E_Learning.Controllers
             {
                 _context.Trainings.Add(training);
                 await _context.SaveChangesAsync();
+
+                // Pasi krijohet trajnim, pastroni cache për trajnime
+                await _redisCache.SetValueAsync("trainings", null); // Pastroni cache të trajnimeve të vjetra
+
+                // Ruaj trajnimet e reja në cache
+                var trainingList = _context.Trainings.Include(t => t.User).ToList();
+                await _redisCache.SetValueAsync("trainings", Newtonsoft.Json.JsonConvert.SerializeObject(trainingList), TimeSpan.FromMinutes(5));
+
                 return CreatedAtAction(nameof(GetTraining), new { id = training.Id }, training);
             }
             catch (Exception ex)
@@ -87,6 +178,7 @@ namespace E_Learning.Controllers
                 return StatusCode(500, new { message = $"Error creating training: {ex.Message}" });
             }
         }
+
 
         // API PUT: Update a training record (Admin role required)
         [Authorize(Roles = "Admin")]
@@ -130,19 +222,35 @@ namespace E_Learning.Controllers
 
         // API GET: Retrieve a single training record by ID
         [HttpGet("{id}")]
+
         public async Task<IActionResult> GetTraining(int id)
         {
-            var training = await _context.Trainings
-                .Include(t => t.User) // Include professor/user data
-                .FirstOrDefaultAsync(t => t.Id == id);
+            var trainingCacheKey = $"training:{id}";
+            var training = await _redisCache.GetValueAsync(trainingCacheKey);
 
-            if (training == null)
+            if (string.IsNullOrEmpty(training)) // Nëse nuk ka të dhëna në cache
             {
-                return NotFound(new { message = "Training not found." });
-            }
+                var trainingFromDb = await _context.Trainings
+                    .Include(t => t.User)
+                    .FirstOrDefaultAsync(t => t.Id == id);
 
-            return Ok(training);
+                if (trainingFromDb == null)
+                {
+                    return NotFound(new { message = "Training not found." });
+                }
+
+                // Ruaj trajnimin në cache për 10 minuta
+                _redisCache.SetValueAsync(trainingCacheKey, Newtonsoft.Json.JsonConvert.SerializeObject(trainingFromDb)).Wait();
+
+                return Ok(trainingFromDb);
+            }
+            else
+            {
+                var trainingFromCache = Newtonsoft.Json.JsonConvert.DeserializeObject<Training>(training);
+                return Ok(trainingFromCache);
+            }
         }
+
         [HttpPost]
         [Route("api/upload")]
         public async Task<IActionResult> UploadFile(int id, IFormFile file)
@@ -276,12 +384,16 @@ namespace E_Learning.Controllers
             _context.Trainings.Remove(training);
             await _context.SaveChangesAsync();
 
+            // Clear cache after deletion
+            await _redisCache.SetValueAsync("trainings", null);
+
             return NoContent();
         }
     }
 
-    // DTO for training creation and updates
-    public class TrainingDto
+
+        // DTO for training creation and updates
+        public class TrainingDto
     {
         [Required]
         [MaxLength(100)]

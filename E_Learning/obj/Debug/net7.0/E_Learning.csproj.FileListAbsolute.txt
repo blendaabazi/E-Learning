@@ -896,3 +896,5 @@ C:\Users\Erjon\desktop\E-Learning\E_Learning\bin\Debug\net7.0\Microsoft.OpenApi.
 C:\Users\Erjon\desktop\E-Learning\E_Learning\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Erjon\desktop\E-Learning\E_Learning\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Erjon\desktop\E-Learning\E_Learning\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Naim\OneDrive\Desktop\E-Learning\E_Learning\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Naim\OneDrive\Desktop\E-Learning\E_Learning\bin\Debug\net7.0\StackExchange.Redis.dll

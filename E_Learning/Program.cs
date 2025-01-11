@@ -2,6 +2,7 @@ using E_Learning.Data;
 using E_Learning.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using StackExchange.Redis; // Për Redis
 using Swashbuckle.AspNetCore.SwaggerGen;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,9 +11,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-
 // Shtoni shërbimin për lidhjen me databazën
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection")
+                       ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
 
@@ -21,6 +22,17 @@ builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
     .AddEntityFrameworkStores<ApplicationDbContext>()
     .AddDefaultUI()
     .AddDefaultTokenProviders();
+
+// Konfigurimi i Redis
+var redisConfig = builder.Configuration.GetConnectionString("RedisConnection")
+                  ?? throw new InvalidOperationException("Connection string 'RedisConnection' not found.");
+var redis = ConnectionMultiplexer.Connect(redisConfig);
+builder.Services.AddSingleton<IConnectionMultiplexer>(redis);
+builder.Services.AddSingleton<RedisCacheService>();
+
+builder.Services.AddLogging(); // Injektimi i logimit
+
+
 
 // Shtoni shërbimin për trajtimin e skedarëve
 builder.Services.AddScoped<IFileService, FileService>();
@@ -36,7 +48,6 @@ builder.Services.AddCors(options =>
                         .AllowAnyHeader()
                         .AllowAnyMethod());
 });
-
 
 var app = builder.Build();
 
@@ -58,7 +69,6 @@ app.UseSwaggerUI(c =>
 {
     c.SwaggerEndpoint("/swagger/v1/swagger.json", "E-Learning API v1");
 });
-app.UseCors("AllowFrontend");
 
 // Aktivizo CORS
 app.UseCors("AllowAll");  // Aktivizo politikat CORS që mundësojnë kërkesat nga frontend

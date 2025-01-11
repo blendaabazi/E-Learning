@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "amSOVggKEhfe0omkK4SePIFkeooN6Eqin9kMU0Rmczc=",
+  "Hash": "lq+oN5v758EAX0UGabY3QMOzNPdIVs53uiQmG4y370w=",
   "Source": "E_Learning",
   "BasePath": "_content/E_Learning",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "E_Learning\\wwwroot",
       "Source": "E_Learning",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\css\\site.css",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\css\\site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\css\\site.css"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\favicon.ico",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\favicon.ico",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\favicon.ico"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\js\\site.js",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\js\\site.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\js\\site.js"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -128,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -147,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -166,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -185,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -204,13 +204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -223,13 +223,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -242,13 +242,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -261,13 +261,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -280,13 +280,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -299,13 +299,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -318,13 +318,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -356,13 +356,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -375,13 +375,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -394,13 +394,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -413,13 +413,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -432,13 +432,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -451,13 +451,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -470,13 +470,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -489,13 +489,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -508,13 +508,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -527,13 +527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -546,13 +546,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -565,13 +565,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -584,13 +584,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -603,13 +603,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -622,13 +622,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -641,13 +641,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -679,13 +679,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -698,13 +698,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -717,13 +717,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -736,13 +736,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -755,13 +755,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -774,13 +774,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -793,13 +793,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -812,13 +812,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -831,13 +831,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -850,13 +850,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -869,13 +869,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -888,13 +888,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -907,13 +907,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -926,13 +926,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -945,13 +945,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -964,13 +964,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -983,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1002,13 +1002,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1021,13 +1021,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1040,13 +1040,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1059,13 +1059,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1078,13 +1078,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1097,13 +1097,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1116,13 +1116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1135,13 +1135,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1154,13 +1154,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\Naim\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\obj\\Debug\\net7.0\\scopedcss\\bundle\\E_Learning.styles.css",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\obj\\Debug\\net7.0\\scopedcss\\bundle\\E_Learning.styles.css",
       "SourceId": "E_Learning",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "E_Learning.styles.css",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\obj\\Debug\\net7.0\\scopedcss\\bundle\\E_Learning.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\obj\\Debug\\net7.0\\scopedcss\\bundle\\E_Learning.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\E_Learning.bundle.scp.css",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\E_Learning.bundle.scp.css",
       "SourceId": "E_Learning",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "E_Learning.bundle.scp.css",
       "AssetKind": "All",
@@ -1192,13 +1192,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\E_Learning.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\E_Learning.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\client-app\\build\\asset-manifest.json",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\client-app\\build\\asset-manifest.json",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "client-app/build/asset-manifest.json",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\client-app\\build\\asset-manifest.json"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\client-app\\build\\manifest.json",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\client-app\\build\\manifest.json",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "client-app/build/manifest.json",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\client-app\\build\\manifest.json"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\css\\site.css",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\favicon.ico",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\almarah.png",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\almarah.png",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "images/brand-logos/almarah.png",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\images\\brand-logos\\almarah.png"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\e-learning.png",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\e-learning.png",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "images/brand-logos/e-learning.png",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\brand-logos\\e-learning.png"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\etimadya.png",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\etimadya.png",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "images/brand-logos/etimadya.png",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\images\\brand-logos\\etimadya.png"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\khostan.png",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\khostan.png",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "images/brand-logos/khostan.png",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\images\\brand-logos\\khostan.png"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\matoontapa.png",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\matoontapa.png",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "images/brand-logos/matoontapa.png",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\images\\brand-logos\\matoontapa.png"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\nadershakot.png",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\nadershakot.png",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "images/brand-logos/nadershakot.png",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\images\\brand-logos\\nadershakot.png"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\Note.txt",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\Note.txt",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "images/brand-logos/Note.txt",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\images\\brand-logos\\Note.txt"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\torghar.png",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\brand-logos\\torghar.png",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "images/brand-logos/torghar.png",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\images\\brand-logos\\torghar.png"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\images\\courses\\course-1.jpg",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\courses\\course-1.jpg",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "images/courses/course-1.jpg",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\courses\\course-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\images\\courses\\teacher-1.jpg",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\courses\\teacher-1.jpg",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "images/courses/teacher-1.jpg",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\images\\courses\\teacher-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\images\\default-profile-picture.jpg",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\default-profile-picture.jpg",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "images/default-profile-picture.jpg",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\images\\default-profile-picture.jpg"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\images\\home\\logo.png",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\home\\logo.png",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "images/home/logo.png",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\images\\home\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\images\\home\\pattern.png",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\home\\pattern.png",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "images/home/pattern.png",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\images\\home\\pattern.png"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\images\\home\\student.png",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\home\\student.png",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "images/home/student.png",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\images\\home\\student.png"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\images\\login.avif",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\login.avif",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "images/login.avif",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\images\\login.avif"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\images\\login.jpeg",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\login.jpeg",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "images/login.jpeg",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\images\\login.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\images\\slider\\foto.jpg",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\slider\\foto.jpg",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "images/slider/foto.jpg",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider\\foto.jpg"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\images\\slider\\foto.png",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\slider\\foto.png",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "images/slider/foto.png",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider\\foto.png"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\images\\slider\\foto1.png",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\slider\\foto1.png",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "images/slider/foto1.png",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider\\foto1.png"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\images\\testimonials\\student-1.jpg",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\images\\testimonials\\student-1.jpg",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "images/testimonials/student-1.jpg",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\images\\testimonials\\student-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\js\\site.js",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\05dab0cb-b5e2-4c29-bead-b6983f049352.docx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\05dab0cb-b5e2-4c29-bead-b6983f049352.docx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/05dab0cb-b5e2-4c29-bead-b6983f049352.docx",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\05dab0cb-b5e2-4c29-bead-b6983f049352.docx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\07a95abf-296b-4faa-9914-93db24735c2a.pptx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\07a95abf-296b-4faa-9914-93db24735c2a.pptx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/07a95abf-296b-4faa-9914-93db24735c2a.pptx",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\07a95abf-296b-4faa-9914-93db24735c2a.pptx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\08244411-e84c-4de5-a834-c9d8f14c0c2e.docx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\08244411-e84c-4de5-a834-c9d8f14c0c2e.docx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/08244411-e84c-4de5-a834-c9d8f14c0c2e.docx",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\08244411-e84c-4de5-a834-c9d8f14c0c2e.docx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\0a30d918-d81f-4413-bcbb-2e8fa592fabe.pptx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\0a30d918-d81f-4413-bcbb-2e8fa592fabe.pptx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/0a30d918-d81f-4413-bcbb-2e8fa592fabe.pptx",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\0a30d918-d81f-4413-bcbb-2e8fa592fabe.pptx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\0e1ea345-7ae9-4802-944d-e3fb643e1a62.docx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\0e1ea345-7ae9-4802-944d-e3fb643e1a62.docx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/0e1ea345-7ae9-4802-944d-e3fb643e1a62.docx",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\0e1ea345-7ae9-4802-944d-e3fb643e1a62.docx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\184d1d28-102c-469b-9d68-0fd3b717240b.png",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\184d1d28-102c-469b-9d68-0fd3b717240b.png",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/184d1d28-102c-469b-9d68-0fd3b717240b.png",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\184d1d28-102c-469b-9d68-0fd3b717240b.png"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\1877bb67-f337-4d0f-b297-ed602c7b72f9.png",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\1877bb67-f337-4d0f-b297-ed602c7b72f9.png",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/1877bb67-f337-4d0f-b297-ed602c7b72f9.png",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\1877bb67-f337-4d0f-b297-ed602c7b72f9.png"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\19442641-8116-410c-8802-9fe5528579ab.docx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\19442641-8116-410c-8802-9fe5528579ab.docx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/19442641-8116-410c-8802-9fe5528579ab.docx",
       "AssetKind": "All",
@@ -2905,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\19442641-8116-410c-8802-9fe5528579ab.docx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\19879e8d-9b81-4a83-bf3a-29c1ec5f560c.pptx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\19879e8d-9b81-4a83-bf3a-29c1ec5f560c.pptx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/19879e8d-9b81-4a83-bf3a-29c1ec5f560c.pptx",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\19879e8d-9b81-4a83-bf3a-29c1ec5f560c.pptx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\28dd7941-0dcd-4660-a485-6a12327062aa.png",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\28dd7941-0dcd-4660-a485-6a12327062aa.png",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/28dd7941-0dcd-4660-a485-6a12327062aa.png",
       "AssetKind": "All",
@@ -2943,10 +2943,29 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\28dd7941-0dcd-4660-a485-6a12327062aa.png"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\557551d2-c128-43cc-8088-18bfbe512b90.docx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\4e114f9b-a7a2-4fe2-951d-379cbec34dfc.docx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "BasePath": "_content/E_Learning",
+      "RelativePath": "Uploads/4e114f9b-a7a2-4fe2-951d-379cbec34dfc.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\4e114f9b-a7a2-4fe2-951d-379cbec34dfc.docx"
+    },
+    {
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\557551d2-c128-43cc-8088-18bfbe512b90.docx",
+      "SourceId": "E_Learning",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/557551d2-c128-43cc-8088-18bfbe512b90.docx",
       "AssetKind": "All",
@@ -2962,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\557551d2-c128-43cc-8088-18bfbe512b90.docx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\652066b1-585f-48cd-86b7-111710d5651c.docx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\652066b1-585f-48cd-86b7-111710d5651c.docx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/652066b1-585f-48cd-86b7-111710d5651c.docx",
       "AssetKind": "All",
@@ -2981,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\652066b1-585f-48cd-86b7-111710d5651c.docx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\78da6d56-b0e0-4bc0-a4a2-bb9c02ccfcf6.pptx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\78da6d56-b0e0-4bc0-a4a2-bb9c02ccfcf6.pptx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/78da6d56-b0e0-4bc0-a4a2-bb9c02ccfcf6.pptx",
       "AssetKind": "All",
@@ -3000,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\78da6d56-b0e0-4bc0-a4a2-bb9c02ccfcf6.pptx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\7cb5b091-8921-49f8-9b18-7d04c5837b73.docx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\7cb5b091-8921-49f8-9b18-7d04c5837b73.docx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/7cb5b091-8921-49f8-9b18-7d04c5837b73.docx",
       "AssetKind": "All",
@@ -3019,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\7cb5b091-8921-49f8-9b18-7d04c5837b73.docx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\8c18ebe1-47a1-490f-9523-7d154c31e6ca.docx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\8c18ebe1-47a1-490f-9523-7d154c31e6ca.docx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/8c18ebe1-47a1-490f-9523-7d154c31e6ca.docx",
       "AssetKind": "All",
@@ -3038,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\8c18ebe1-47a1-490f-9523-7d154c31e6ca.docx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\8c81b101-50f2-4eb7-a515-389d75a84f2d.pptx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\8c81b101-50f2-4eb7-a515-389d75a84f2d.pptx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/8c81b101-50f2-4eb7-a515-389d75a84f2d.pptx",
       "AssetKind": "All",
@@ -3057,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\8c81b101-50f2-4eb7-a515-389d75a84f2d.pptx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\957d67e5-2b54-4ae2-a7f7-97922be1c999.pptx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\957d67e5-2b54-4ae2-a7f7-97922be1c999.pptx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/957d67e5-2b54-4ae2-a7f7-97922be1c999.pptx",
       "AssetKind": "All",
@@ -3076,10 +3095,29 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\957d67e5-2b54-4ae2-a7f7-97922be1c999.pptx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\9cd4bfcd-edda-4823-8038-9a79baf4eccc.pptx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\957e4ca8-5331-42ff-8610-5ac1390f7010.docx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "BasePath": "_content/E_Learning",
+      "RelativePath": "Uploads/957e4ca8-5331-42ff-8610-5ac1390f7010.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\957e4ca8-5331-42ff-8610-5ac1390f7010.docx"
+    },
+    {
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\9cd4bfcd-edda-4823-8038-9a79baf4eccc.pptx",
+      "SourceId": "E_Learning",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/9cd4bfcd-edda-4823-8038-9a79baf4eccc.pptx",
       "AssetKind": "All",
@@ -3095,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\9cd4bfcd-edda-4823-8038-9a79baf4eccc.pptx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\a8eacf5c-b443-428d-bfe4-c2344fc0cc49.pptx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\a8eacf5c-b443-428d-bfe4-c2344fc0cc49.pptx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/a8eacf5c-b443-428d-bfe4-c2344fc0cc49.pptx",
       "AssetKind": "All",
@@ -3114,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\a8eacf5c-b443-428d-bfe4-c2344fc0cc49.pptx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\b1ba783b-3dbe-4251-a8fa-4bce7c9dcfda.pptx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\b1ba783b-3dbe-4251-a8fa-4bce7c9dcfda.pptx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/b1ba783b-3dbe-4251-a8fa-4bce7c9dcfda.pptx",
       "AssetKind": "All",
@@ -3133,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\b1ba783b-3dbe-4251-a8fa-4bce7c9dcfda.pptx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\b4889b64-448c-42ae-a5e4-4fddef1f9725.png",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\b4889b64-448c-42ae-a5e4-4fddef1f9725.png",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/b4889b64-448c-42ae-a5e4-4fddef1f9725.png",
       "AssetKind": "All",
@@ -3152,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\b4889b64-448c-42ae-a5e4-4fddef1f9725.png"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\b73aead8-0613-496b-8822-09cbd9ee007f.docx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\b73aead8-0613-496b-8822-09cbd9ee007f.docx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/b73aead8-0613-496b-8822-09cbd9ee007f.docx",
       "AssetKind": "All",
@@ -3171,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\b73aead8-0613-496b-8822-09cbd9ee007f.docx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\b826fb44-2fa3-4525-b177-c7f4b3bfbc8f.pptx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\b826fb44-2fa3-4525-b177-c7f4b3bfbc8f.pptx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/b826fb44-2fa3-4525-b177-c7f4b3bfbc8f.pptx",
       "AssetKind": "All",
@@ -3190,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\b826fb44-2fa3-4525-b177-c7f4b3bfbc8f.pptx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\c3e9d5dd-963f-4683-93ae-007cafc01d54.png",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\c3e9d5dd-963f-4683-93ae-007cafc01d54.png",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/c3e9d5dd-963f-4683-93ae-007cafc01d54.png",
       "AssetKind": "All",
@@ -3209,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\c3e9d5dd-963f-4683-93ae-007cafc01d54.png"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\cdd7884b-3708-4654-87a5-a865c81a128a.png",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\cdd7884b-3708-4654-87a5-a865c81a128a.png",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/cdd7884b-3708-4654-87a5-a865c81a128a.png",
       "AssetKind": "All",
@@ -3228,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\cdd7884b-3708-4654-87a5-a865c81a128a.png"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\d84ab522-2192-4bcb-a6e0-126d56a7ac58.docx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\d84ab522-2192-4bcb-a6e0-126d56a7ac58.docx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/d84ab522-2192-4bcb-a6e0-126d56a7ac58.docx",
       "AssetKind": "All",
@@ -3247,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\d84ab522-2192-4bcb-a6e0-126d56a7ac58.docx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\d9002eba-7817-454c-a38b-a1ba95edf076.jpg",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\d9002eba-7817-454c-a38b-a1ba95edf076.jpg",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/d9002eba-7817-454c-a38b-a1ba95edf076.jpg",
       "AssetKind": "All",
@@ -3266,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\d9002eba-7817-454c-a38b-a1ba95edf076.jpg"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\dc1c58bb-6321-4671-bc37-fc7acba84466.docx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\dc1c58bb-6321-4671-bc37-fc7acba84466.docx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/dc1c58bb-6321-4671-bc37-fc7acba84466.docx",
       "AssetKind": "All",
@@ -3285,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\dc1c58bb-6321-4671-bc37-fc7acba84466.docx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\dc2ec196-48bb-4365-bfd1-e180c7df767d.pptx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\dc2ec196-48bb-4365-bfd1-e180c7df767d.pptx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/dc2ec196-48bb-4365-bfd1-e180c7df767d.pptx",
       "AssetKind": "All",
@@ -3304,10 +3342,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\dc2ec196-48bb-4365-bfd1-e180c7df767d.pptx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\e3aa358c-1c39-4838-a2c4-623acc40cc64.docx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\e3aa358c-1c39-4838-a2c4-623acc40cc64.docx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/e3aa358c-1c39-4838-a2c4-623acc40cc64.docx",
       "AssetKind": "All",
@@ -3323,10 +3361,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\e3aa358c-1c39-4838-a2c4-623acc40cc64.docx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\e3f8e1a2-c776-4a0b-b5a3-89dd7095c091.pptx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\e3f8e1a2-c776-4a0b-b5a3-89dd7095c091.pptx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/e3f8e1a2-c776-4a0b-b5a3-89dd7095c091.pptx",
       "AssetKind": "All",
@@ -3342,10 +3380,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\e3f8e1a2-c776-4a0b-b5a3-89dd7095c091.pptx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\ef0e744c-843b-4d65-8a7e-da43b4a9b15a.pptx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\ef0e744c-843b-4d65-8a7e-da43b4a9b15a.pptx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/ef0e744c-843b-4d65-8a7e-da43b4a9b15a.pptx",
       "AssetKind": "All",
@@ -3361,10 +3399,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\ef0e744c-843b-4d65-8a7e-da43b4a9b15a.pptx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\f0ad1ae8-4e61-41e4-b903-2a386a0f617d.pptx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\f0ad1ae8-4e61-41e4-b903-2a386a0f617d.pptx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/f0ad1ae8-4e61-41e4-b903-2a386a0f617d.pptx",
       "AssetKind": "All",
@@ -3380,10 +3418,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\f0ad1ae8-4e61-41e4-b903-2a386a0f617d.pptx"
     },
     {
-      "Identity": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\f7294715-9523-42f5-aba6-10b4e62fff91.docx",
+      "Identity": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\Uploads\\f7294715-9523-42f5-aba6-10b4e62fff91.docx",
       "SourceId": "E_Learning",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Erjon\\desktop\\E-Learning\\E_Learning\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Naim\\OneDrive\\Desktop\\E-Learning\\E_Learning\\wwwroot\\",
       "BasePath": "_content/E_Learning",
       "RelativePath": "Uploads/f7294715-9523-42f5-aba6-10b4e62fff91.docx",
       "AssetKind": "All",

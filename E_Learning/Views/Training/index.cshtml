@@ -7,7 +7,7 @@
 
 <h2>@ViewData["Title"]</h2>
 
-<!-- Div për alarmin -->
+<!-- Div for alert -->
 <div id="alert" class="alert-custom"></div>
 
 @if (User.IsInRole("Admin"))
@@ -28,7 +28,7 @@
             </div>
             <div class="modal-body">
                 <form id="add-training-form">
-                    <div class="mb-3">
+                    <div class="mb-3`">
                         <label for="name" class="form-label">Training Name:</label>
                         <input type="text" id="name" class="form-control" required />
                     </div>
@@ -62,11 +62,7 @@
                     <div class="mb-3">
                         <label for="edit-userId" class="form-label">Assign to User:</label>
                         <select id="edit-userId" class="form-select" required>
-                         
-                            @foreach (var user in ViewBag.Users as List<ApplicationUser>)
-                            {
-                                <option value="@user.Id">@user.Name</option>
-                            }
+                            <!-- Populated by JS -->
                         </select>
                     </div>
                     <input type="hidden" id="edit-id" />
@@ -90,26 +86,27 @@
                 .then(data => {
                     const trainingListDiv = document.getElementById('training-list');
                     const listHtml = data.map(training =>
-                        `<div class="col-md-4 mb-4">
-                                 <a href="https://localhost:7246/training/Details/${training.id}" class="text-decoration-none">
-                                            <div class="card shadow-lg rounded-3">
-                                                <img src="${training.filePath || 'https://via.placeholder.com/300x200.png?text=E-Learning'}"
-                                                     class="card-img-top rounded-top" alt="Training Image">
-                                                <div class="card-body">
-                                                            <h5 class="card-title">
-                                                <a href="https://localhost:7246/training/Details/${training.id}" class="text-decoration-none">${training.name}</a>
-                                                </h5>
-                                                    <p class="card-text"><strong>Assigned to:</strong> ${training.name}</p>
-                                                    </a>
+                        `<div class="col-md-3 mb-3" style="margin-top:10px">
+                                         <a href="https://localhost:7246/training/Details/${training.id}" class="text-decoration-none">
+                                                    <div class="card shadow-lg rounded-3">
+                                                        <img src="${training.filePath || 'https://via.placeholder.com/300x200.png?text=E-Learning'}"
+                                                                     class="card-img-top rounded-top" alt="Training Image"  style="height: 150px; object-fit: cover;">
+
+                                                                <div class="card-body p-2"
+                                                                            <h5 class="card-title"  style="font-size: 1rem;">
+                                                        <a href="https://localhost:7246/training/Details/${training.id}" class="text-decoration-none">${training.name}</a>
+                                                        </h5>
+                                                                    <p class="card-text style="font-size: 0.9rem;"><strong>Assigned to:</strong> ${training.name}</p>
+                                                            </a>
 
         @if (User.IsInRole("Admin"))
         {
-                                                            <button class="btn custom-edit-btn" onclick="editTraining(${training.id}, '${training.name}', '${training.userId}')">Edit</button>
-                                                            <button class="btn btn-danger" onclick="deleteTraining(${training.id})">Delete</button>
+                                                                                    <button class="btn custom-edit-btn btn-sm"style="background-color:#255bd9; color:white" onclick="editTraining(${training.id}, '${training.name}', '${training.userId}')">Edit</button>
+                                                                        <button class="btn btn-danger btn-sm" onclick="deleteTraining(${training.id})" style="margin-top:5px">Delete</button>
         }
-                                                </div>
-                                            </div>
-                                        </div>`).join('');
+                                                        </div>
+                                                    </div>
+                                                </div>`).join('');
                     trainingListDiv.innerHTML = listHtml;
                 })
                 .catch(error => showAlert('Error fetching training data: ' + error.message, 'error'));
@@ -136,9 +133,9 @@
                     if (response.ok) {
                         showAlert('Training added successfully!', 'success');
                         fetchTrainings(); // Refresh the list
-                         const modal = bootstrap.Modal.getInstance(document.getElementById('addTrainingModal'));
-                          modal.hide();
-                         location.reload();
+                        const modal = bootstrap.Modal.getInstance(document.getElementById('addTrainingModal'));
+                        modal.hide();
+                        location.reload();
                     } else {
                         showAlert('Failed to add training.', 'error');
                     }
@@ -146,11 +143,17 @@
                 .catch(error => showAlert('Error adding training: ' + error.message, 'error'));
         });
 
-        // Edit an existing training (PUT request)
+        // Edit a training (PUT request)
+        // Edit a training (PUT request)
         function editTraining(id, currentName, currentUserId) {
             document.getElementById('edit-id').value = id;  // Set the training ID
             document.getElementById('edit-name').value = currentName;  // Set the training name
-            document.getElementById('edit-userId').value = currentUserId;  // Set the user ID
+
+            // Fetch users for the select dropdown in the edit modal
+            fetchUsersForEdit();
+
+            // Set the current userId to the select dropdown
+            document.getElementById('edit-userId').value = currentUserId;
 
             // Show the modal
             const editModal = new bootstrap.Modal(document.getElementById('editTrainingModal'));
@@ -185,6 +188,35 @@
             };
         }
 
+        // Fetch users for the dropdowns
+        async function fetchUsersForEdit() {
+            try {
+                const response = await fetch('/api/professor');
+                const users = await response.json();
+
+                const userSelect = document.getElementById('userId');
+                const editUserSelect = document.getElementById('edit-userId');
+                userSelect.innerHTML = '<option value="">Select User</option>';
+                editUserSelect.innerHTML = '<option value="">Select User</option>';
+
+                users.forEach(user => {
+                    const option = document.createElement('option');
+                    option.value = user.id;
+                    option.textContent = user.name;
+                    userSelect.appendChild(option);
+
+                    const editOption = document.createElement('option');
+                    editOption.value = user.id;
+                    editOption.textContent = user.name;
+                    editUserSelect.appendChild(editOption);
+                });
+            } catch (error) {
+                console.error('Error fetching users:', error);
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', fetchTrainings);
+
         // Delete a training (DELETE request)
         function deleteTraining(id) {
             const confirmDelete = confirm("Are you sure you want to delete this training?");
@@ -212,7 +244,7 @@
             alertBox.className = `alert-custom alert-${type} alert-show`;  // Add the corresponding class (success, error, etc.)
 
             // Hide the alert after a few seconds
-            setTimeout(function() {
+            setTimeout(function () {
                 alertBox.classList.remove('alert-show');
             }, 5000);  // Hide after 3 seconds
         }
@@ -258,75 +290,28 @@
             display: block;
             opacity: 1;
         }
-
-        .custom-edit-btn {
-            background-color: #4DB8FF !important;
-            color: white;
-            margin-bottom: 5px;
-            transition: background-color 0.3s ease;
-        }
-
-            .custom-edit-btn:hover {
-                background-color: #3a9cd6 !important;
-            }
-
-        .card {
-            border: none;
-            overflow: hidden;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-        }
-
-        .card-img-top {
-            height: 100px;
-            object-fit: cover;
-            transition: transform 0.3s ease;
-        }
-
-        .card-body {
-            padding: 20px;
-        }
-
-        .card:hover {
-            transform: scale(1.05);
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
-        }
-
-            .card:hover .card-img-top {
-                transform: scale(1.1);
-            }
-
-        #training-list{
-            margin-left:30px;
-        }
     </style>
+
+    <!-- Fetching professors from the API -->
     <script>
-    // Fetch professors from the API
-        // Fetch professors from the API
-        // Fetch professors from the API
         async function fetchProfessors() {
             try {
-                const response = await fetch('/api/professor'); // Make sure this returns the right data
+                const response = await fetch('/api/professor');
                 const users = await response.json();
 
                 const userSelect = document.getElementById('userId');
-
-                // Clear existing options
                 userSelect.innerHTML = '<option value="">Select Professor</option>';
 
-                // Filter the users to include only those with the role "Professor"
                 const professors = users.filter(user => user.role === 'Professor');
 
-                // Check if there are professors
                 if (professors.length > 0) {
-                    // Populate the dropdown with professor users
                     professors.forEach(professor => {
                         const option = document.createElement('option');
-                        option.value = professor.id;  // The ID will be the value of the option
-                        option.textContent = professor.name;  // The professor's name will be shown in the dropdown
+                        option.value = professor.id;
+                        option.textContent = professor.name;
                         userSelect.appendChild(option);
                     });
                 } else {
-                    // No need for an alert, you can log it or handle differently
                     console.log('No professors found.');
                 }
             } catch (error) {
@@ -334,11 +319,6 @@
             }
         }
 
-        // Call the function when the page loads
         document.addEventListener('DOMContentLoaded', fetchProfessors);
-
-
-    document.addEventListener('DOMContentLoaded', fetchProfessors);
-</script>
+    </script>
 }
-

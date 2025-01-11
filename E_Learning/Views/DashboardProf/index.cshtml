@@ -103,7 +103,16 @@
                                 beginAtZero: true
                             },
                             y: {
-                                beginAtZero: true
+                                beginAtZero: true,
+                                ticks: {
+                                    stepSize: 1, // Step size of 1
+                                    callback: function (value) {
+                                        if (Number.isInteger(value)) {
+                                            return value; // Show only integer values
+                                        }
+                                        return null;
+                                    }
+                                }
                             }
                         }
                     }
@@ -113,6 +122,7 @@
                     `<span class="text-danger">Error: ${error.message}</span>`;
             }
         }
+
 
         // Call function to display lecture counts
         fetchLectureCounts();
